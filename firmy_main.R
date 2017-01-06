@@ -8,8 +8,8 @@ library(dplyr)
 library(stringi)
 
 # do testów wystarczą te dwa zbiory
-firmy <- read.csv(file = "slowniki_gotowe/export_firmy.txt")
-dicten <- read.csv(file = "slowniki_gotowe/export_slowniken.txt")
+firmy <- read.csv(file = "slowniki_gotowe/export_firmy.txt", header = FALSE)
+dicten <- read.csv(file = "slowniki_gotowe/export_slowniken.txt", header = FALSE)
 
 
 # TU SIE PRACUJE!!!
@@ -21,7 +21,16 @@ dicten <- read.csv(file = "slowniki_gotowe/export_slowniken.txt")
 # 3 > przepuścić funkcję, która dla każdego słowa z firmy szuka odpowiednika
 #     w słownikach, i jeśli nie ma - dodaje do firmy_unique
 
-
+unikat = function() {
+  i = 1
+  for(i in 5) {
+    # od 1 do "długość zbioru firm"
+    wyraz = as.character(firmy[i,1])
+    # tutaj trzeba: czy wyraz jest w bazie?
+    print(wyraz)
+    i = i +1
+  }
+}
 
 
 

@@ -7,7 +7,6 @@ Firmy: ściągnięte przy pomocy http://webscraper.io / nazwiska: http://www.fut
 
 ## Co trzeba zrobić
 
-* dołączyć słownik niemiecki
 * dokończyć webscrap wojewódzki
 * załadować wszystkie województwa i posprzątać
 * przygotować poręczną funkcję do selekcji prób z bazy unikatów
