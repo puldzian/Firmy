@@ -3,7 +3,7 @@
 
 Skrypcik R do połączenia, obróbki, porównania słowników (polski i angielski), a następnie wyrzucenie losowych próbek do pliku.
 
-Firmy: ściągnięte przy pomocy http://webscraper.io / nazwiska: http://www.futrega.org/etc/nazwiska.html / słowa polskie: http://sjp.pl/slownik/growy / słowa angielskie: ? / słowa niemieckie: ?
+Firmy: ściągnięte przy pomocy http://webscraper.io / nazwiska: http://www.futrega.org/etc/nazwiska.html / słowa polskie: http://sjp.pl/slownik/growy / słowa angielskie: /usr/share/dict/ / słowa niemieckie: ?
 
 ## Co trzeba zrobić
 

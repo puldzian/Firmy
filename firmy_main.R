@@ -84,19 +84,19 @@ importujSlownikPL <- function() {
 
 importujSlownikEN <- function() {
   # wczytujemy pliczek nazwisk
-  slowniken <- read.csv(file = "slowniki/oxford.txt", sep = " ", header = FALSE, flush = TRUE)
+  slowniken <- read.csv(file = "slowniki/american-english.txt", sep = " ", header = FALSE, flush = TRUE)
   # proszę o małe literki
   slowniken <- as.data.frame(sapply(slowniken,tolower))
   # porządek w kolumnach
-  colnames(slownikpl) <- c("slownikpl")
+  colnames(slowniken) <- c("slowniken")
   # kolejność alfabetyczna
-  slownikpl[,1] <- sort(slownikpl[,1])
-  # wypierdol te kretyńskie znaczki z końca linii
-  slownikpl$nazwafirmy <- stri_sub(slownikpl$nazwafirmy, 1, -3)
+  slowniken[,1] <- sort(slowniken[,1])
+  # wyprostuj format danych
+  slowniken[,1] <- as.character(slowniken[,1])
   # wywal krótsze niż 3 znaki, bo nie używamy takich
-  slownikpl <- subset(slownikpl, nchar(as.character(slownikpl$nazwafirmy)) > 3)  
+  slowniken <- subset(slowniken, nchar(as.character(slowniken$slowniken)) > 3)  
   # pokaż główkę
-  head(slownikpl)
+  head(slowniken)
 }
 
 
