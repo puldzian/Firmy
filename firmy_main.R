@@ -10,6 +10,8 @@ library(stringi)
 library(stringr)
 
 
+
+
 # DONE, jako tako
 importujBaze <- function() {
   # ładujemy pliczek z argumentu
@@ -57,48 +59,86 @@ importujNazwiska <- function() {
   head(nazwiska)
 }
 
-# 
+# bierzemy słownik polski
 importujSlownikPL <- function() {
   # wczytujemy pliczek nazwisk
   slownikpl <- read.csv(file = "slowniki/slowa-utf.txt", sep = " ", header = FALSE, flush = TRUE)
   # proszę o małe literki
   slownikpl <- as.data.frame(sapply(slownikpl,tolower))
   # porządek w kolumnach
-  colnames(slownikpl) <- c("nazwafirmy")
+  colnames(slownikpl) <- c("nazwiska")
   # kolejność alfabetyczna
   slownikpl[,1] <- sort(slownikpl[,1])
   # wypierdol te kretyńskie znaczki z końca linii
   slownikpl$nazwafirmy <- stri_sub(slownikpl$nazwafirmy, 1, -3)
   # wywal krótsze niż 3 znaki, bo nie używamy takich
   slownikpl <- subset(slownikpl, nchar(as.character(slownikpl$nazwafirmy)) > 3)  
-  
   # pokaż główkę
   head(slownikpl)
-  }
+}
+
+# bierzemy słownik angielski
+# słownik oxford.txt to gówno
+
+# TU SIE PRACUJE!!!
+
+importujSlownikEN <- function() {
+  # wczytujemy pliczek nazwisk
+  slowniken <- read.csv(file = "slowniki/oxford.txt", sep = " ", header = FALSE, flush = TRUE)
+  # proszę o małe literki
+  slowniken <- as.data.frame(sapply(slowniken,tolower))
+  # porządek w kolumnach
+  colnames(slownikpl) <- c("slownikpl")
+  # kolejność alfabetyczna
+  slownikpl[,1] <- sort(slownikpl[,1])
+  # wypierdol te kretyńskie znaczki z końca linii
+  slownikpl$nazwafirmy <- stri_sub(slownikpl$nazwafirmy, 1, -3)
+  # wywal krótsze niż 3 znaki, bo nie używamy takich
+  slownikpl <- subset(slownikpl, nchar(as.character(slownikpl$nazwafirmy)) > 3)  
+  # pokaż główkę
+  head(slownikpl)
+}
+
+
+# TUTAJ SIĘ PRACUJE
+# PLAN: weź wyraz z firmy, sprawdź czy występuje w słownikach,
+# jeśli występuje w którymś to porzuć
+# jeśli nie występuje, to przesuń do firmygold
+
+unikat <- function() {
+  
+  
+  
+} 
+
+
+
+
+
 
 # to ma być maszyna do porównywania zbiorów
+# ale się wypierdala, więc trzeba to zrobić inaczej
 porownajDane <- function(BAZA, SLOWNIK) {
   require(dplyr)
   bazatbl <- tbl_df(baza)
   nazwtbl <- tbl_df(nazwiska)
   
   # sprawdź z listą nazwisk
-  
   # sprawdź ze słownikiem polskim
-  
   # sprawdź ze słownikiem angielskim
-  
   # sprawdź ze słownikiem niemieckim
-  
 }
+
+
+# w przypadku pełnej bazy
+# usuń duplikaty...
+# podnieś pierwszą literkę
+# coś jeszcze?
+
+
 
 # TUTAJ SIE PRACUJE!!
 
 # śliczne eksporty
 write.table(baza, file="export_baza.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
 write.table(nazwiska, file="export_nazwiska.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
-
-  # w przypadku pełnej bazy
-  # usuń duplikaty...
-  # podnieś pierwszą literkę
-  # coś jeszcze?
