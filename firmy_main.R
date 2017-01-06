@@ -1,16 +1,34 @@
 # FIRMY Almanach
-# CC-Zero Piotr Puldzian Płucienniczak
+# Piotr Puldzian Płucienniczak
 
-# pozostałe chyba niepotrzebne
 # library(stringr)
 # library(readr)
 # library(compare)
 library(dplyr)
 library(stringi)
-library(stringr)
+
+# do testów wystarczą te dwa zbiory
+firmy <- read.csv(file = "slowniki_gotowe/export_firmy.txt")
+dicten <- read.csv(file = "slowniki_gotowe/export_slowniken.txt")
+
+
+# TU SIE PRACUJE!!!
+# Jedna wizja f() jest taka, żeby zrobić for i in firmy, dla każdego wersu
+# sprawdzać obecność w pozostałych słownikach [albo połączyć je w jeden,
+# tak będzie najprościej]
+# 1 > połączyć w 1 firmy ze wszystkich województw
+# 2 > połączyć w 1 wszystkie słowniki
+# 3 > przepuścić funkcję, która dla każdego słowa z firmy szuka odpowiednika
+#     w słownikach, i jeśli nie ma - dodaje do firmy_unique
 
 
 
+
+
+
+# ARCHIWUM
+# te gówna nie są już potrzebne, bo wyeksportowałem rafinowany materiał
+# do slowniki_export i nie będę tego mulił ponownie
 
 # DONE, jako tako
 importujBaze <- function() {
@@ -77,11 +95,6 @@ importujSlownikPL <- function() {
   head(slownikpl)
 }
 
-# bierzemy słownik angielski
-# słownik oxford.txt to gówno
-
-# TU SIE PRACUJE!!!
-
 importujSlownikEN <- function() {
   # wczytujemy pliczek nazwisk
   slowniken <- read.csv(file = "slowniki/american-english.txt", sep = " ", header = FALSE, flush = TRUE)
@@ -94,51 +107,13 @@ importujSlownikEN <- function() {
   # wyprostuj format danych
   slowniken[,1] <- as.character(slowniken[,1])
   # wywal krótsze niż 3 znaki, bo nie używamy takich
-  slowniken <- subset(slowniken, nchar(as.character(slowniken$slowniken)) > 3)  
+  slowniken <- subset(slowniken, nchar(as.character(slowniken)) > 3)  
+  # wywal znaki specjalne
+  baza <- as.data.frame(baza[-grep("[.,-]", baza),])
   # pokaż główkę
   head(slowniken)
 }
 
-
-# TUTAJ SIĘ PRACUJE
-# PLAN: weź wyraz z firmy, sprawdź czy występuje w słownikach,
-# jeśli występuje w którymś to porzuć
-# jeśli nie występuje, to przesuń do firmygold
-
-unikat <- function() {
-  
-  
-  
-} 
-
-
-
-
-
-
-# to ma być maszyna do porównywania zbiorów
-# ale się wypierdala, więc trzeba to zrobić inaczej
-porownajDane <- function(BAZA, SLOWNIK) {
-  require(dplyr)
-  bazatbl <- tbl_df(baza)
-  nazwtbl <- tbl_df(nazwiska)
-  
-  # sprawdź z listą nazwisk
-  # sprawdź ze słownikiem polskim
-  # sprawdź ze słownikiem angielskim
-  # sprawdź ze słownikiem niemieckim
-}
-
-
-# w przypadku pełnej bazy
-# usuń duplikaty...
-# podnieś pierwszą literkę
-# coś jeszcze?
-
-
-
-# TUTAJ SIE PRACUJE!!
-
 # śliczne eksporty
-write.table(baza, file="export_baza.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
-write.table(nazwiska, file="export_nazwiska.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
+write.table(baza, file="slowniki_gotowe/export_baza.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
+write.table(nazwiska, file="slowniki_gotowe/export_nazwiska.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
