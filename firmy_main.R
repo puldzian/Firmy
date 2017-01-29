@@ -79,6 +79,11 @@ bazanowych = as.data.frame(noweslowa)
 write.table(bazanowych, file="złom/firmy.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
 
 
+# Tester na 1000 wpisów
+nowe1000 <- sample(bazanowych[,1], 1000)
+nowe1000 <- sort(nowe1000)
+write.table(nowe1000, file="złom/firmy1000.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
+
 
 ## Testujemy, co będzie się działo dalej
 tester <- as.data.frame(sample(bazafirm[,1], 100))
