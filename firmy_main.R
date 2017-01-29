@@ -1,145 +1,71 @@
-# FIRMY Almanach
+# FIRMY
 # Piotr Puldzian Płucienniczak
 
-# library(stringr)
-# library(readr)
-# library(compare)
+## Niezbędne foldery
+# /bazy - bazy pobrane przez webscrape
 
-# używana przy ładowaniu plików
+## Załaduj biblioteki
+# Używana przy ładowaniu plików
 library(data.table)
-
-## nie ładuj bibliotek dopóki nie są naprawde potrzebne!
-library(dplyr)
+# Metoda na wybieranie pierwszych słów
 library(stringi)
 
 
-# Prawidłowo ładujemy wszystkie bazy
+## nie ładuj bibliotek dopóki nie są naprawde potrzebne!
+library(dplyr)
+
+
+
+## Prawidłowo ładujemy wszystkie bazy
 plikibaz = list.files(path = "bazy", pattern = "*csv", full.names = TRUE)
 tymczasem <- lapply(plikibaz, fread, sep=",")
 bazafirm <- rbindlist( tymczasem )
-
 # Sprzątamy śmieci
-tymczasem = NULL
-plikibaz = NULL
+rm(tymczasem, plikibaz)
+# Usuń dwie zbedne kolumny
+bazafirm[,2] <- NULL
+bazafirm[,2] <- NULL
+
+# write.csv (bazafirm, file = "złom/bazafirm_00.csv, row.names = FALSE")
+# bazafirm = read.csv(file = "złom/bazafirm_00.csv")
+# Tutaj plik ma 1050799 wpisów
+
+# Zostaw tylko pierwsze słowa
+# Przesuwam kolumny, bo w [,1] <- [,1] funkcja się jebie
+# To jest najsłabszy element całego skryptu
+bazafirm[,2] <- stri_extract_first_words(bazafirm[,1])
+bazafirm[,1] <- NULL
+# write.csv (bazafirm, file = "złom/bazafirm_01.csv, row.names = FALSE")
+# bazafirm = read.csv(file = "złom/bazafirm_01.csv")
+# Tutaj plik ma 1050761 wpisów
+
+# Zostaw dłuższe niż 3 znaki
+bazafirm <- subset(bazafirm, nchar(as.character(bazafirm[,1])) > 3) 
+# write.csv (bazafirm, file = "złom/bazafirm_02.csv", row.names = FALSE)
+# Tutaj plik ma 934416 wpisów
+
+# Usuń wpisy znaki specjalne
+bazafirm <- as.data.frame(bazafirm[-grep("[.,-]", bazafirm[,1]),])
+# write.csv (bazafirm, file = "złom/bazafirm_03.csv", row.names = FALSE)
+# Tutaj plik ma 925067 wpisów
+
+# Usuń wpisy zawierające cyfry
+bazafirm <- as.data.frame(bazafirm[-grep("[0-9]", bazafirm[,1]),])
+# write.csv (bazafirm, file = "złom/bazafirm_04.csv", row.names = FALSE)
+# Tutaj plik ma 924601 wpisów
+
+# Obniż literki
+bazafirm <- as.data.frame(sapply(bazafirm,tolower))
+#Usuń powtórki i braki danych
+bazafirm <- unique(bazafirm)
+bazafirm <- na.omit(bazafirm)
+# Ustaw alfabetycznie, jest pięknie
+bazafirm[,1] <- sort(bazafirm[,1])
+# write.csv (bazafirm, file = "złom/bazafirm_04.csv", row.names = FALSE)
+# Tutaj plik ma 123289 wpisów
 
 
 
 
-
-
-
-
-# TU SIE PRACUJE!!!
-# Jedna wizja f() jest taka, żeby zrobić for i in firmy, dla każdego wersu
-# sprawdzać obecność w pozostałych słownikach [albo połączyć je w jeden,
-# tak będzie najprościej]
-# 1 > połączyć w 1 firmy ze wszystkich województw
-# 2 > połączyć w 1 wszystkie słowniki
-# 3 > przepuścić funkcję, która dla każdego słowa z firmy szuka odpowiednika
-#     w słownikach, i jeśli nie ma - dodaje do firmy_unique
-
-unikat = function() {
-  i = 1
-  for(i in 5) {
-    # od 1 do "długość zbioru firm"
-    wyraz = as.character(firmy[i,1])
-    # tutaj trzeba: czy wyraz jest w bazie?
-    print(wyraz)
-    i = i +1
-  }
-}
-
-
-
-
-# ARCHIWUM
-# te gówna nie są już potrzebne, bo wyeksportowałem rafinowany materiał
-# do slowniki_export i nie będę tego mulił ponownie
-
-# DONE, jako tako
-importujBaze <- function() {
-  # ładujemy pliczek z argumentu
-  baza <- read.csv(file = "test/bazafirm-test.csv", header = TRUE)
-  # ustaw alfabetycznie
-  baza[,1] <- sort(baza[,1])
-  # usuń dwie zbedne kolumny
-  baza[,2] <- NULL
-  baza[,2] <- NULL
-  # zostaw tylko pierwsze wyrazy
-  baza[,1] <- stri_extract_first_words(baza[,1])
-  # obniż literki
-  baza <- as.data.frame(sapply(baza,tolower))
-  # wywal duble
-  baza <- unique(baza)
-  # wywal puste
-  baza <- na.omit(baza)
-  # wywal wersy zawierające cyfry
-  baza <- as.data.frame(baza[-grep("[0-9]", baza[,1]),])
-  # wywal zawierające znaki specjalne
-  baza <- as.data.frame(baza[-grep("[.,-]", baza[,1]),])
-  # czas uspokoić sytuację z nazwą kolumny
-  colnames(baza) <- c("nazwafirmy")
-  # wywal krótsze niż 3 znaki
-  baza <- subset(baza, nchar(as.character(baza$nazwafirmy)) > 3)
-  # pokaż główkę
-  head(baza)
-}
-
-# DONE
-importujNazwiska <- function() {
-  # wczytujemy pliczek nazwisk
-  nazwiska <- read.csv(file = "slowniki/nazwiska-utf.txt", sep = " ", header = FALSE, flush = TRUE)
-  # śmieci precz
-  nazwiska[,1] <- NULL
-  # proszę o małe literki
-  nazwiska <- as.data.frame(sapply(nazwiska,tolower))
-  # porządek w kolumnach
-  colnames(nazwiska) <- c("nazwafirmy")
-  # kolejność alfabetyczna
-  nazwiska[,1] <- sort(nazwiska[,1])
-  # wywal krótsze niż 3 znaki, bo nie używamy takich
-  nazwiska <- subset(nazwiska, nchar(as.character(nazwiska$nazwafirmy)) > 3)  
-  # pokaż główkę
-  head(nazwiska)
-}
-
-# bierzemy słownik polski
-importujSlownikPL <- function() {
-  # wczytujemy pliczek nazwisk
-  slownikpl <- read.csv(file = "slowniki/slowa-utf.txt", sep = " ", header = FALSE, flush = TRUE)
-  # proszę o małe literki
-  slownikpl <- as.data.frame(sapply(slownikpl,tolower))
-  # porządek w kolumnach
-  colnames(slownikpl) <- c("nazwiska")
-  # kolejność alfabetyczna
-  slownikpl[,1] <- sort(slownikpl[,1])
-  # wypierdol te kretyńskie znaczki z końca linii
-  slownikpl$nazwafirmy <- stri_sub(slownikpl$nazwafirmy, 1, -3)
-  # wywal krótsze niż 3 znaki, bo nie używamy takich
-  slownikpl <- subset(slownikpl, nchar(as.character(slownikpl$nazwafirmy)) > 3)  
-  # pokaż główkę
-  head(slownikpl)
-}
-
-importujSlownikEN <- function() {
-  # wczytujemy pliczek nazwisk
-  slowniken <- read.csv(file = "slowniki/american-english.txt", sep = " ", header = FALSE, flush = TRUE)
-  # proszę o małe literki
-  slowniken <- as.data.frame(sapply(slowniken,tolower))
-  # porządek w kolumnach
-  colnames(slowniken) <- c("slowniken")
-  # kolejność alfabetyczna
-  slowniken[,1] <- sort(slowniken[,1])
-  # wyprostuj format danych
-  slowniken[,1] <- as.character(slowniken[,1])
-  # wywal krótsze niż 3 znaki, bo nie używamy takich
-  slowniken <- subset(slowniken, nchar(as.character(slowniken)) > 3)  
-  # wywal znaki specjalne
-  baza <- as.data.frame(baza[-grep("[.,-]", baza),])
-  # pokaż główkę
-  head(slowniken)
-}
-
-# śliczne eksporty
-write.table(baza, file="slowniki_gotowe/export_baza.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
-write.table(nazwiska, file="slowniki_gotowe/export_nazwiska.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
+## Testujemy, co będzie się działo dalej
+tester <- as.data.frame(sample(bazafirm[,1], 100))
