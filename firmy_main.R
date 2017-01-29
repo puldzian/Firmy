@@ -4,12 +4,29 @@
 # library(stringr)
 # library(readr)
 # library(compare)
+
+# używana przy ładowaniu plików
+library(data.table)
+
+## nie ładuj bibliotek dopóki nie są naprawde potrzebne!
 library(dplyr)
 library(stringi)
 
-# do testów wystarczą te dwa zbiory
-firmy <- read.csv(file = "slowniki_gotowe/export_firmy.txt", header = FALSE)
-dicten <- read.csv(file = "slowniki_gotowe/export_slowniken.txt", header = FALSE)
+
+# Prawidłowo ładujemy wszystkie bazy
+plikibaz = list.files(path = "bazy", pattern = "*csv", full.names = TRUE)
+tymczasem <- lapply(plikibaz, fread, sep=",")
+bazafirm <- rbindlist( tymczasem )
+
+# Sprzątamy śmieci
+tymczasem = NULL
+plikibaz = NULL
+
+
+
+
+
+
 
 
 # TU SIE PRACUJE!!!
