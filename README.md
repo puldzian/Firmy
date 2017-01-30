@@ -5,8 +5,12 @@ Skrypt i pliki, które tworzą "Firmy"
 
 ## Zawartość
 
-firmy_main.R - Skrypcik R do połączenia, obróbki, porównania słowników (polski, niemiecki i angielski), a następnie wyrzucenie losowych próbek do pliku.
+firmy_main.R - Skrypcik R do połączenia, obróbki, porównania słowników (polski, niemiecki i angielski), a następnie wyrzucenie losowych próbek do /warianty.
 
-/bazy - Bazy firm podzielone na województwa, za: http://msp.money.pl/baza-firm/
+/bazy - Bazy przedsiębiorstw podzielone na województwa.
 
 /slowniki - Słowniki z różnych miejsc dostosowane do potrzeb projektu.
+
+/warianty - Listy unikalnych nazw przedsiębiorstw.
+
+/warianty/firmy_bazowe.txt - Podstawowa lista.
