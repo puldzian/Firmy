@@ -30,17 +30,17 @@ bazafirm[,2] <- NULL
 # Zostaw tylko pierwsze słowa
 # Przesuwam kolumny, bo w [,1] <- [,1] funkcja się jebie
 # To jest najsłabszy element całego skryptu
-bazafirm[,2] <- stri_extract_first_words(bazafirm[,1])
-bazafirm[,1] <- NULL
+bazafirm$V1 <- stri_extract_first_words(bazafirm$nazwafirmy)
+bazafirm$nazwafirmy <- NULL
 # write.csv (bazafirm, file = "złom/bazafirm_01.csv, row.names = FALSE")
 # bazafirm = read.csv(file = "złom/bazafirm_01.csv")
 # Tutaj plik ma 1050761 wpisów
 # Zostaw dłuższe niż 3 znaki
-bazafirm <- subset(bazafirm, nchar(as.character(bazafirm[,1])) > 3) 
+bazafirm <- subset(bazafirm, nchar(as.character(bazafirm$V1)) > 3) 
 # write.csv (bazafirm, file = "złom/bazafirm_02.csv", row.names = FALSE)
 # Tutaj plik ma 934416 wpisów
 # Usuń wpisy zawierające znaki specjalne
-bazafirm <- as.data.frame(bazafirm[-grep("[.,-]", bazafirm[,1]),])
+bazafirm <- as.data.frame(bazafirm[-grep("[.,-]", bazafirm$V1),])
 # write.csv (bazafirm, file = "złom/bazafirm_03.csv", row.names = FALSE)
 # Tutaj plik ma 925067 wpisów
 # Usuń wpisy zawierające cyfry
@@ -54,35 +54,52 @@ bazafirm <- unique(bazafirm)
 bazafirm <- na.omit(bazafirm)
 # Ustaw alfabetycznie, jest pięknie
 bazafirm[,1] <- sort(bazafirm[,1])
-# write.csv (bazafirm, file = "złom/bazafirm_06.csv", row.names = FALSE)
-# Tutaj plik ma 124289 wpisów
+colnames(bazafirm) <- c("V1")
+write.csv (bazafirm, file = "złom/bazafirm_99.csv", row.names = FALSE)
+# Finiszowy plik ma 124289 wpisów, to indywidualne pierwsze wyrazy nazw
+# przedsiębiorstw dłuższe niż 3 znaki
 
 ## ŁADOWANIE SŁOWNIKÓW
 # Metoda taka, jak wyżej
 plikislownikow = list.files(path = "slowniki", pattern = "*txt", full.names = TRUE)
 tymczasem <- lapply(plikislownikow, fread, sep=",")
 bazaslow <- rbindlist( tymczasem )
+bazaslow <- as.data.frame(sapply(bazaslow,tolower))
 # Sprzątamy śmieci
 rm(tymczasem, plikislownikow)
-# write.csv (bazaslow, file = "złom/bazaslow_06.csv", row.names = FALSE)
+# Obniż słowniki!!!
+write.csv (bazaslow, file = "złom/bazaslow_99.csv", row.names = FALSE)
 
-## KOPIE ZAPASOWE
-# bazafirm = read.csv(file = "złom/bazafirm_06.csv")
-# bazaslow = read.csv(file = "złom/bazaslow_06.csv", header = FALSE)
-# colnames(bazaform) <- c("V1")
+### KOPIE ZAPASOWE - TUTAJ ZACZYNA SIĘ PRZYGODA
+# Bazafirm -  124289 rekordów
+# Bazaslow - 3613135 (pl, ang, niem, nazwiska, miejsca)
+bazafirm = read.csv(file = "złom/bazafirm_99.csv")
+bazaslow = read.csv(file = "złom/bazaslow_99.csv", header = FALSE)
 
 ## PORÓWNAJ BAZĘ ZE SŁOWNIKIEM
 zwykleslowa = bazafirm$V1 %in% bazaslow$V1
 noweslowa = bazafirm$V1[!zwykleslowa]
 bazanowych = as.data.frame(noweslowa)
 # Baza ma 77902 wpisy
-write.table(bazanowych, file="złom/firmy.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
+# Wyjeb wszystko, co kończy się na -ska -ski -scy -cka -czyk
+bazanowych$koncuwka = grepl(pattern = "(ska|ski|scy|cka|czyk)$", bazanowych$noweslowa)
+bazanowych = bazanowych[bazanowych$koncuwka == FALSE,] 
+# Baza ma 73926 wpisów
+write.table(bazanowych, file="warianty/firmy_bazowe.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
 
+
+
+
+# Funkcja do podnoszenia pierwszych liter rekordu
+capFirst <- function(s) {
+  paste(toupper(substring(s, 1, 1)), substring(s, 2), sep = "")
+}
 
 # Tester na 1000 wpisów
-nowe1000 <- sample(bazanowych[,1], 1000)
-nowe1000 <- sort(nowe1000)
-write.table(nowe1000, file="złom/firmy1000.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
+nowe5 <- sample(bazanowych[,1], 5000)
+nowe5 <- sort(nowe5)
+nowe5 <- capFirst(nowe5)
+write.table(nowe5, file="warianty/firmy5.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
 
 
 ## Testujemy, co będzie się działo dalej

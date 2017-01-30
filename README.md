@@ -9,4 +9,4 @@ firmy_main.R - Skrypcik R do połączenia, obróbki, porównania słowników (po
 
 /bazy - Bazy firm podzielone na województwa, za: http://msp.money.pl/baza-firm/
 
-/slowniki - Słowniki dostosowane do potrzeb projektu
+/slowniki - Słowniki z różnych miejsc dostosowane do potrzeb projektu.

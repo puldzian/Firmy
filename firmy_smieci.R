@@ -95,6 +95,10 @@ importujSlownikEN <- function() {
   head(slowniken)
 }
 
+## Tutaj importuje ten plik z nazwami miejscowości
+miejsca = read.csv(file = "miejscowosci2015.csv")
+
 # śliczne eksporty
 write.table(baza, file="slowniki_gotowe/export_baza.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
 write.table(nazwiska, file="slowniki_gotowe/export_nazwiska.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
+
