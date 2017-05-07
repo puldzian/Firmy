@@ -82,11 +82,10 @@ noweslowa = bazafirm$V1[!zwykleslowa]
 bazanowych = as.data.frame(noweslowa)
 # Baza ma 77902 wpisy
 # Wyjeb wszystko, co kończy się na -ska -ski -scy -cka -czyk
-bazanowych$koncuwka = grepl(pattern = "(ska|ski|scy|cka|czyk)$", bazanowych$noweslowa)
+bazanowych$koncuwka = grepl(pattern = "(ska|ski|scy|cka|czyk|iacy|iego|skie)$", bazanowych$noweslowa)
 bazanowych = bazanowych[bazanowych$koncuwka == FALSE,] 
-# Baza ma 73926 wpisów
+# Baza ma 73868 wpisów > 
 write.table(bazanowych, file="warianty/firmy_bazowe.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
-
 
 
 
@@ -104,3 +103,22 @@ write.table(nowe5, file="warianty/firmy5.txt", col.names = FALSE, quote = FALSE,
 
 ## Testujemy, co będzie się działo dalej
 tester <- as.data.frame(sample(bazafirm[,1], 100))
+
+# Testowanie dodatkowych filtrów
+bazanowych$koncuwka = grepl(pattern = "(nka)$", bazanowych$noweslowa)
+filtr_nka = bazanowych[bazanowych$koncuwka == TRUE,] #może zostać
+
+bazanowych$koncuwka = grepl(pattern = "(sna)$", bazanowych$noweslowa)
+filtr_sna = bazanowych[bazanowych$koncuwka == TRUE,] #może zostać
+
+bazanowych$koncuwka = grepl(pattern = "(skie)$", bazanowych$noweslowa)
+filtr_skie = bazanowych[bazanowych$koncuwka == TRUE,] #może zostać
+
+bazanowych$koncuwka = grepl(pattern = "(tka)$", bazanowych$noweslowa)
+filtr_tka = bazanowych[bazanowych$koncuwka == TRUE,] #może zostać
+
+bazanowych$koncuwka = grepl(pattern = "(iego)$", bazanowych$noweslowa)
+filtr_iego = bazanowych[bazanowych$koncuwka == TRUE,]
+
+bazanowych$koncuwka = grepl(pattern = "(iacy)$", bazanowych$noweslowa)
+filtr_iacy = bazanowych[bazanowych$koncuwka == TRUE,]

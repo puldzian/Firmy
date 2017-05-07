@@ -708,7 +708,6 @@ adibud FALSE
 adicar FALSE
 adico FALSE
 adicom FALSE
-adiego FALSE
 adien FALSE
 adifax FALSE
 adig FALSE
@@ -8311,7 +8310,6 @@ bandi FALSE
 bandidos FALSE
 bandog FALSE
 bandurex FALSE
-bandurskiego FALSE
 banesto FALSE
 banex FALSE
 baney FALSE
@@ -8511,7 +8509,6 @@ bartmex FALSE
 bartmix FALSE
 bartmot FALSE
 bartograf FALSE
-bartoliniego FALSE
 bartollini FALSE
 bartolo FALSE
 bartomet FALSE
@@ -12213,7 +12210,6 @@ buremo FALSE
 burex FALSE
 burgerownia FALSE
 burgundia FALSE
-buriańskie FALSE
 bürkle FALSE
 burkus FALSE
 burland FALSE
@@ -13714,7 +13710,6 @@ chelmar FALSE
 chelmax FALSE
 chelosiowy FALSE
 chełmet FALSE
-chełmońskiego FALSE
 chełmsat FALSE
 chem FALSE
 chemabud FALSE
@@ -15544,7 +15539,6 @@ cybertronica FALSE
 cyberzone FALSE
 cybormax FALSE
 cybrdine FALSE
-cybulskiego FALSE
 cyclo FALSE
 cyfral FALSE
 cyfrodruk FALSE
@@ -15646,7 +15640,6 @@ czarmet FALSE
 czarmięs FALSE
 czarneccy FALSE
 czarnkowsko FALSE
-czarnowiejskie FALSE
 czarodent FALSE
 czarowanka FALSE
 czarpol FALSE
@@ -16782,7 +16775,6 @@ dąbpol FALSE
 dąbrad FALSE
 dąbret FALSE
 dąbrowet FALSE
-dąbrowiacy FALSE
 dąbud FALSE
 dąbwar FALSE
 dąstal FALSE
@@ -17528,7 +17520,6 @@ deveco FALSE
 develey FALSE
 devello FALSE
 developermed FALSE
-developerskie FALSE
 developpement FALSE
 developpemont FALSE
 developres FALSE
@@ -17599,7 +17590,6 @@ dezynsekt FALSE
 deżal FALSE
 dębieckie FALSE
 dębinówka FALSE
-dębińskie FALSE
 dębol FALSE
 dębos FALSE
 dębrol FALSE
@@ -18111,8 +18101,6 @@ dolmot FALSE
 dolmowet FALSE
 dolnak FALSE
 dolnostal FALSE
-dolnoślaskie FALSE
-dolnoślląskie FALSE
 dolomis FALSE
 dolomitex FALSE
 dolorado FALSE
@@ -18139,7 +18127,6 @@ domadex FALSE
 domadin FALSE
 domado FALSE
 domag FALSE
-domagalskiego FALSE
 domak FALSE
 domako FALSE
 domaks FALSE
@@ -19529,7 +19516,6 @@ dyart FALSE
 dybcówka FALSE
 dybicar FALSE
 dybkins FALSE
-dychowskie FALSE
 dyckerhoff FALSE
 dyczpol FALSE
 dydactor FALSE
@@ -19622,7 +19608,6 @@ dziekosz FALSE
 dzieńdobry FALSE
 dzier FALSE
 dzierzbud FALSE
-dzierżeniowskie FALSE
 dzięrzążno FALSE
 dzigren FALSE
 dzikowiak FALSE
@@ -26695,7 +26680,6 @@ fridar FALSE
 fridico FALSE
 friendshostel FALSE
 frieser FALSE
-frieskie FALSE
 frigipol FALSE
 frigo FALSE
 frigoglass FALSE
@@ -29013,7 +28997,6 @@ górmar FALSE
 górmax FALSE
 górmich FALSE
 górmont FALSE
-górnosląskie FALSE
 górnovia FALSE
 górolsko FALSE
 górpol FALSE
@@ -34046,7 +34029,6 @@ introlamex FALSE
 introldruk FALSE
 introlen FALSE
 introlex FALSE
-introligatorskie FALSE
 introligatorstwo FALSE
 introm FALSE
 introma FALSE
@@ -35895,7 +35877,6 @@ jawopol FALSE
 jaworeks FALSE
 jaworex FALSE
 jaworz FALSE
-jaworzniacy FALSE
 jawos FALSE
 jawotur FALSE
 jawpol FALSE
@@ -37259,7 +37240,6 @@ kamimpex FALSE
 kaminari FALSE
 kaminex FALSE
 kamino FALSE
-kamińskiego FALSE
 kamiplast FALSE
 kamir FALSE
 kamirex FALSE
@@ -38232,7 +38212,6 @@ kilimandżaro FALSE
 kilimebud FALSE
 kilimex FALSE
 kilinbud FALSE
-kilińskiego FALSE
 killem FALSE
 kilmax FALSE
 kilstone FALSE
@@ -39241,7 +39220,6 @@ konstalmet FALSE
 konstał FALSE
 konstans FALSE
 konstantynka FALSE
-konstantynowskie FALSE
 konstar FALSE
 konstat FALSE
 konstbau FALSE
@@ -39838,9 +39816,7 @@ krarem FALSE
 krasbud FALSE
 krasch FALSE
 krasiccy FALSE
-krasickiego FALSE
 krasieńka FALSE
-krasińskiego FALSE
 kraskór FALSE
 krasnodwór FALSE
 krasnopel FALSE
@@ -39848,7 +39824,6 @@ krasotherm FALSE
 krasowia FALSE
 kraspol FALSE
 krasvolt FALSE
-kraszewskiego FALSE
 kratbet FALSE
 kratex FALSE
 kratmex FALSE
@@ -40804,7 +40779,6 @@ lanber FALSE
 lancaplast FALSE
 lanccorona FALSE
 lanchak FALSE
-lanciego FALSE
 lancome FALSE
 landbruk FALSE
 landbud FALSE
@@ -41169,7 +41143,6 @@ ledoor FALSE
 ledor FALSE
 ledos FALSE
 ledox FALSE
-ledóchowskiego FALSE
 ledpol FALSE
 ledrol FALSE
 ledrox FALSE
@@ -42355,7 +42328,6 @@ lubtex FALSE
 lubtour FALSE
 lubtrans FALSE
 lubu FALSE
-lubulskie FALSE
 lubusko FALSE
 lubusz FALSE
 lubuszanin FALSE
@@ -42854,7 +42826,6 @@ madak FALSE
 madakap FALSE
 madako FALSE
 madaks FALSE
-madalińskiego FALSE
 madamel FALSE
 madamm FALSE
 madamme FALSE
@@ -46775,7 +46746,6 @@ międzywojewódzki FALSE
 międzywojewódzkie FALSE
 międzywydziałowy FALSE
 międzyzakonny FALSE
-międzyzdrojowskie FALSE
 mięsdam FALSE
 mięsław FALSE
 mięsort FALSE
@@ -47832,7 +47802,6 @@ modulvegger FALSE
 modum FALSE
 modyfico FALSE
 modystyna FALSE
-modzelewskiego FALSE
 moebius FALSE
 moellendorf FALSE
 moeschle FALSE
@@ -48774,7 +48743,6 @@ musicton FALSE
 musicus FALSE
 müsing FALSE
 musiołówka FALSE
-muskie FALSE
 muskular FALSE
 müslüm FALSE
 mussana FALSE
@@ -48835,7 +48803,6 @@ myślibór FALSE
 myśliweczka FALSE
 mytrex FALSE
 mzps FALSE
-mżańskie FALSE
 naan FALSE
 nabbit FALSE
 nabłysk FALSE
@@ -48849,7 +48816,6 @@ nackermann FALSE
 nacko FALSE
 nadar FALSE
 nadbaryczna FALSE
-nadbiebrzańskie FALSE
 nadbud FALSE
 nadbystrzycki FALSE
 nadelśnictwo FALSE
@@ -49634,7 +49600,6 @@ niesta FALSE
 nietrend FALSE
 nieuchomości FALSE
 niewachlów FALSE
-niewęgłowskie FALSE
 niewiadom FALSE
 niezapomonajka FALSE
 nifares FALSE
@@ -50223,7 +50188,6 @@ nowkan FALSE
 nowkom FALSE
 nowmar FALSE
 nowmix FALSE
-nowobramskie FALSE
 nowobud FALSE
 nowodent FALSE
 nowokar FALSE
@@ -51541,7 +51505,6 @@ orwibud FALSE
 orwil FALSE
 orwo FALSE
 orwox FALSE
-orzechowskie FALSE
 orzepowiczanka FALSE
 orzesko FALSE
 orzyckie FALSE
@@ -53224,7 +53187,6 @@ piastrol FALSE
 piastuś FALSE
 piatnik FALSE
 piattino FALSE
-piątkowskie FALSE
 piba FALSE
 pibex FALSE
 pibi FALSE
@@ -53839,7 +53801,6 @@ podafin FALSE
 podakas FALSE
 podan FALSE
 podatex FALSE
-podawarszawskie FALSE
 podbeskidzia FALSE
 podbipięta FALSE
 podekor FALSE
@@ -55094,7 +55055,6 @@ pozh FALSE
 pozimpex FALSE
 pozmeat FALSE
 pozmot FALSE
-poznanskie FALSE
 pozprojekt FALSE
 pozreco FALSE
 pozserwis FALSE
@@ -55106,7 +55066,6 @@ pożsekuryt FALSE
 pożserwis FALSE
 półchjłopek FALSE
 północno FALSE
-północnopodlaskie FALSE
 pparker FALSE
 ppas FALSE
 ppbh FALSE
@@ -55236,7 +55195,6 @@ prazisa FALSE
 prazo FALSE
 prądex FALSE
 prądzik FALSE
-prądzyńskiego FALSE
 prbh FALSE
 prbm FALSE
 prdi FALSE
@@ -56517,7 +56475,6 @@ prumerica FALSE
 prumot FALSE
 prusa FALSE
 pruster FALSE
-pruszkowiacy FALSE
 pruszynka FALSE
 prybud FALSE
 prymad FALSE
@@ -56541,7 +56498,6 @@ przdsiębiorstwo FALSE
 przebsiębiorstwo FALSE
 przechowalnictwo FALSE
 przechydraul FALSE
-przedewskie FALSE
 przediębiorstwo FALSE
 przedisębiorstwo FALSE
 przeds FALSE
@@ -58868,7 +58824,6 @@ rogmar FALSE
 rogmet FALSE
 rogomex FALSE
 rogopol FALSE
-rogozińskie FALSE
 rogpol FALSE
 rograf FALSE
 rogran FALSE
@@ -59678,7 +59633,6 @@ rybex FALSE
 rybexim FALSE
 rybhand FALSE
 rybiccy FALSE
-rybickiego FALSE
 rybkur FALSE
 rybmar FALSE
 rybmor FALSE
@@ -61379,7 +61333,6 @@ siatkobram FALSE
 siatkol FALSE
 siatkoland FALSE
 siatkomet FALSE
-siatkonskie FALSE
 siatkopol FALSE
 siatmar FALSE
 siatmet FALSE
@@ -61431,7 +61384,6 @@ siemianowice FALSE
 siemieńcowa FALSE
 siemowit FALSE
 sienkiewicza FALSE
-sienkiewiczowskie FALSE
 sienkiewiczówka FALSE
 sierkoś FALSE
 sierzpol FALSE
@@ -61474,7 +61426,6 @@ sikena FALSE
 sikkens FALSE
 sikla FALSE
 sikop FALSE
-sikorskiego FALSE
 sikring FALSE
 silagra FALSE
 silam FALSE
@@ -61849,7 +61800,6 @@ skęp FALSE
 skialice FALSE
 skidd FALSE
 skidiversion FALSE
-skie FALSE
 skierbud FALSE
 skiglo FALSE
 skil FALSE
@@ -62124,7 +62074,6 @@ smollbud FALSE
 smollpap FALSE
 smolnex FALSE
 smolpol FALSE
-smoluchowskiego FALSE
 smomark FALSE
 smurfit FALSE
 smykatesy FALSE
@@ -62358,7 +62307,6 @@ solarfit FALSE
 solarfocs FALSE
 solargardens FALSE
 solari FALSE
-solariego FALSE
 solariss FALSE
 solarius FALSE
 solarix FALSE
@@ -64121,7 +64069,6 @@ studiograff FALSE
 studiokolor FALSE
 studiospa FALSE
 studiotech FALSE
-studiozdunskie FALSE
 studjo FALSE
 studman FALSE
 studnopol FALSE
@@ -68504,7 +68451,6 @@ turimex FALSE
 turist FALSE
 turkmena FALSE
 turkon FALSE
-turkowskie FALSE
 turlen FALSE
 turmal FALSE
 turmar FALSE
@@ -69227,7 +69173,6 @@ uspiech FALSE
 uspol FALSE
 usprint FALSE
 ussuri FALSE
-ustanowskie FALSE
 ustel FALSE
 ustenad FALSE
 usugi FALSE
@@ -71455,7 +71400,6 @@ wiechtrans FALSE
 wieczonek FALSE
 wiedar FALSE
 wiefamel FALSE
-wiego FALSE
 wiejana FALSE
 wiejar FALSE
 wiekropek FALSE
@@ -72852,7 +72796,6 @@ zachbud FALSE
 zachem FALSE
 zachgór FALSE
 zachodniak FALSE
-zachodniopomorskie FALSE
 zaciszek FALSE
 zack FALSE
 zadar FALSE
@@ -73231,7 +73174,6 @@ zefamix FALSE
 zefil FALSE
 zefirex FALSE
 zegarmistrzostwo FALSE
-zegarmistrzowskie FALSE
 zegir FALSE
 zegmar FALSE
 zego FALSE
