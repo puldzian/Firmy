@@ -82,18 +82,25 @@ bazanowych = bazanowych[bazanowych$koncuwka == FALSE,]
 # Baza ma 73868 wpisów
 bazanowych$koncuwka = NULL
 write.table(bazanowych, file="warianty/firmy_bazowe.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
-
-## TODO
 # Podnieś pierwszą literę każdego wpisu
-# Wyeksportuj z podziałem na litery
+capFirst <- function(s) {
+  paste(toupper(substring(s, 1, 1)), substring(s, 2), sep = "")
+}
+bazanowych$noweslowa <- capFirst(bazanowych$noweslowa)
+# Nazwijmy to normalnie
+firmy <- bazanowych
+firmy$slowa <- firmy$noweslowa
+firmy$noweslowa <- NULL
 
-
-
-
-
-
-
-
+# Podział na litery
+podzielLitery = function() {
+  for (i in LETTERS) {
+    literka = as.character(i)
+    temp = firmy[grepl(pattern = paste("^", literka, sep="", collapse="|"), firmy$slowa),]
+    filepath = paste("warianty/alfabet/liter", literka, ".txt", sep="", collapse="|")
+    write.table(temp, file = filepath, col.names = FALSE, quote = FALSE, row.names = FALSE)
+  }
+}
 
 
 
