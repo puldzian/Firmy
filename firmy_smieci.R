@@ -102,3 +102,36 @@ miejsca = read.csv(file = "miejscowosci2015.csv")
 write.table(baza, file="slowniki_gotowe/export_baza.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
 write.table(nazwiska, file="slowniki_gotowe/export_nazwiska.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
 
+# Funkcja do podnoszenia pierwszych liter rekordu
+capFirst <- function(s) {
+  paste(toupper(substring(s, 1, 1)), substring(s, 2), sep = "")
+}
+
+# Tester na 1000 wpisów
+nowe5 <- sample(bazanowych[,1], 5000)
+nowe5 <- sort(nowe5)
+nowe5 <- capFirst(nowe5)
+write.table(nowe5, file="warianty/firmy5.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
+
+## Testujemy, co będzie się działo dalej
+tester <- as.data.frame(sample(bazafirm[,1], 100))
+
+# Testowanie dodatkowych filtrów
+bazanowych$koncuwka = grepl(pattern = "(nka)$", bazanowych$noweslowa)
+filtr_nka = bazanowych[bazanowych$koncuwka == TRUE,] #może zostać
+
+bazanowych$koncuwka = grepl(pattern = "(sna)$", bazanowych$noweslowa)
+filtr_sna = bazanowych[bazanowych$koncuwka == TRUE,] #może zostać
+
+bazanowych$koncuwka = grepl(pattern = "(skie)$", bazanowych$noweslowa)
+filtr_skie = bazanowych[bazanowych$koncuwka == TRUE,] #może zostać
+
+bazanowych$koncuwka = grepl(pattern = "(tka)$", bazanowych$noweslowa)
+filtr_tka = bazanowych[bazanowych$koncuwka == TRUE,] #może zostać
+
+bazanowych$koncuwka = grepl(pattern = "(iego)$", bazanowych$noweslowa)
+filtr_iego = bazanowych[bazanowych$koncuwka == TRUE,]
+
+bazanowych$koncuwka = grepl(pattern = "(iacy)$", bazanowych$noweslowa)
+filtr_iacy = bazanowych[bazanowych$koncuwka == TRUE,]
+
