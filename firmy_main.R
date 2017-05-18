@@ -102,5 +102,13 @@ podzielLitery = function() {
   }
 }
 
+# Eksport dla notesu
+firmy$pol = grepl(pattern = "(pol)$", firmy$slowa)
+firmypol = firmy[firmy$pol == TRUE,] 
+firmypol1000 = sample(firmypol[,1], 1000)
+firmypol1000 = sort(firmypol1000)
+firmypol1000 = as.data.frame(firmypol1000)
+write.table(firmypol1000, file="notes/firmypol.txt", col.names = FALSE, quote = FALSE, row.names = FALSE )
 
-
+firmy$ex = grepl(pattern = "(ex)$", firmy$slowa)
+firmyex = firmy[firmy$ex == TRUE,] 
