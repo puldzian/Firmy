@@ -12,7 +12,6 @@ Yagra
 Yakudo
 Yama
 Yamacha
-Yamanouchi
 Yamer
 Yanbo
 Yanda

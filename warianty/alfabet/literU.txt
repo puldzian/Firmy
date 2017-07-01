@@ -42,7 +42,6 @@ Ukra
 Ukropol
 Ukrpol
 Uland
-Ulaniccy
 Ulart
 Ulblich
 Ulbud
@@ -524,7 +523,6 @@ Uramet
 Uranos
 Uranpol
 Urbanex
-Urbanowiczanka
 Urbau
 Urbe
 Urbek
@@ -599,7 +597,7 @@ Usłgi
 Usłigi
 Usłógi
 Usługiogólnobudowlane
-Usługiremontowo
+Usługiremontowe
 Usłui
 Usłusgi
 Usmech
@@ -638,4 +636,3 @@ Uwipol
 Uxor
 Uzdorowiciel
 Uzimex
-Uździecki
