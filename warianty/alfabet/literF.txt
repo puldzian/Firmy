@@ -1,4 +1,4 @@
-Faaberg
+﻿Faaberg
 Faac
 Faar
 Fabal
@@ -96,7 +96,6 @@ Fairco
 Fairtex
 Faiter
 Fajkam
-Fajsławianka
 Fajw
 Fakbud
 Fako
@@ -120,7 +119,6 @@ Falck
 Falcomp
 Falconet
 Faldruk
-Faleccy
 Falgaz
 Falglass
 Falkopia
@@ -144,7 +142,6 @@ Faltom
 Falubaz
 Falx
 Fałkopol
-Fałkowianka
 Fałstian
 Famaba
 Famadent
@@ -381,7 +378,6 @@ Fastrack
 Fastrent
 Fastser
 Fastwork
-Faszczanka
 Fati
 Fatih
 Fatimex
@@ -394,9 +390,6 @@ Fatsia
 Fatwood
 Faurecia
 Fausta
-Faustyna
-Faustynka
-Faux
 Fauz
 Favierex
 Favilla
@@ -516,7 +509,6 @@ Femita
 Femix
 Femm
 Femma
-Femme
 Fenal
 Fenbud
 Fenco
@@ -527,7 +519,6 @@ Fenetra
 Fenex
 Feng
 Fenice
-Fenicja
 Fenikstyle
 Fenikx
 Fenimark
@@ -758,7 +749,6 @@ Fiksport
 Fiksus
 Fikszo
 Fiku
-Filadelfia
 Filadent
 Filaga
 Filanda
@@ -857,7 +847,6 @@ Finaid
 Finako
 Finalia
 Financepartner
-Finans
 Finansa
 Finanseco
 Finanser
@@ -904,7 +893,6 @@ Finix
 Finkieklan
 Finkons
 Finkorp
-Finlandia
 Finlevel
 Finlex
 Finlife
@@ -973,7 +961,6 @@ Firmar
 Firmark
 Firmat
 Firmatec
-Firmausługowo
 Firmax
 Firmbud
 Firmet
@@ -1121,7 +1108,6 @@ Flizbox
 Flizbud
 Flizen
 Flizex
-Fliziarstwo
 Flizkaz
 Flizmar
 Flizmat
@@ -1618,7 +1604,6 @@ Fotoedytor
 Fotofilm
 Fotofix
 Fotofox
-Fotograficzno
 Fotografiksacja
 Fotografix
 Fotografus
@@ -1633,7 +1618,6 @@ Fotokon
 Fotokonsorcjum
 Fotokontrast
 Fotokubin
-Fotolaboratorium
 Fotoland
 Fotolight
 Fotolux
@@ -1755,9 +1739,7 @@ Francar
 Francedom
 Francepol
 Francepolimex
-Francesco
 Franchi
-Franciszka
 Francopol
 Francpol
 Francraft

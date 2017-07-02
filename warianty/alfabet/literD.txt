@@ -1,4 +1,4 @@
-Daadoo
+﻿Daadoo
 Daaf
 Daagni
 Daal
@@ -373,8 +373,6 @@ Damet
 Damex
 Damh
 Dami
-Damiana
-Damianek
 Damianeks
 Damianex
 Damianus
@@ -542,7 +540,6 @@ Danmag
 Danmak
 Danmal
 Danmar
-Danmark
 Danmarket
 Danmarkom
 Danmart
@@ -630,8 +627,6 @@ Dantrem
 Dantur
 Dantus
 Dantyszek
-Danusia
-Danuśka
 Danvip
 Danvit
 Danvol
@@ -1212,7 +1207,6 @@ Deix
 Dejamir
 Dejan
 Dejavu
-Déjavu
 Dejcomp
 Dejf
 Dejot
@@ -1233,7 +1227,6 @@ Dekanex
 Dekarbud
 Dekarex
 Dekarexport
-Dekarsko
 Dekart
 Dekastwo
 Dekat
@@ -1360,7 +1353,6 @@ Delicjusz
 Delico
 Delika
 Delikata
-Delikatesik
 Delikatess
 Deliker
 Delikomat
@@ -1760,8 +1752,6 @@ Detar
 Dete
 Deteks
 Detekt
-Detektywistyczna
-Detektywistyczne
 Detentor
 Detep
 Detergens
@@ -1809,7 +1799,6 @@ Devosges
 Devpro
 Devro
 Devymed
-Dewajtis
 Dewal
 Dewart
 Dewasco
@@ -1863,8 +1852,6 @@ Dezy
 Dezyder
 Dezynsekt
 Deżal
-Dębieckie
-Dębinówka
 Dębol
 Dębos
 Dębrol
@@ -2129,7 +2116,6 @@ Diomis
 Dione
 Dioni
 Dionisos
-Dionizos
 Dioptral
 Dios
 Diosat
@@ -2530,7 +2516,6 @@ Dominga
 Dominges
 Dominiaq
 Dominicana
-Dominikana
 Dominikano
 Dominiq
 Dominius
@@ -2539,7 +2524,6 @@ Dominor
 Dominox
 Dominstal
 Dominter
-Dominujace
 Dominum
 Domir
 Domirax
@@ -2831,7 +2815,6 @@ Doroplast
 Dorotech
 Dorotes
 Dorotex
-Dorożkarnia
 Dorpak
 Dorpasz
 Dorplast
@@ -2929,7 +2912,6 @@ Dozmes
 Dozorbud
 Dozordom
 Dozorex
-Dozornictwo
 Dozorpol
 Dozowag
 Dozrem
@@ -2978,7 +2960,6 @@ Drakomeb
 Drakon
 Drakonis
 Drakor
-Drakula
 Dralex
 Dramed
 Dramers
@@ -3527,7 +3508,6 @@ Drozakor
 Drozapol
 Drozdbi
 Drozdbud
-Drozdżóweczka
 Drozet
 Drozmet
 Drozyner
@@ -3731,7 +3711,6 @@ Duoterm
 Duotronic
 Duox
 Duplast
-Dupliccy
 Duplico
 Duramex
 Durango
@@ -3778,17 +3757,13 @@ Dwabe
 Dwaplusjeden
 Dwar
 Dwcom
-Dwerniccy
 Dwewzim
 Dwobud
 Dwołnik
 Dworbar
-Dworeccy
 Dworpol
-Dworzanka
 Dwujka
 Dyart
-Dybcówka
 Dybicar
 Dybkins
 Dyckerhoff
@@ -3863,9 +3838,7 @@ Dzeik
 Dzejka
 Dzewkarcz
 Dzez
-Dziadań
 Działalnośc
-Działdowszczyzna
 Działpol
 Dzianel
 Dzianex
@@ -3874,7 +3847,6 @@ Dzianko
 Dzianotex
 Dzibi
 Dzidex
-Dziecęca
 Dziecięcina
 Dzieciok
 Dziejba
@@ -3883,24 +3855,19 @@ Dziekosz
 Dzieńdobry
 Dzier
 Dzierzbud
-Dzięrzążno
 Dzigren
-Dzikowiak
-Dzikowianka
 Dzikowy
 Dzimex
 Dzina
 Dzionex
 Dziop
 Dzirbex
-Dziubasówka
 Dziun
 Dziunek
 Dziunio
 Dzuber
 Dzwigi
 Dzwigor
-Dzwonkówka
 Dzyrex
 Dźwigarex
 Dźwigaś
@@ -3917,7 +3884,6 @@ Dźwimil
 Dżafar
 Dżaglo
 Dżak
-Dżakarta
 Dżamajka
 Dżamucha
 Dżanex

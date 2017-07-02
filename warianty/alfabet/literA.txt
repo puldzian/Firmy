@@ -1,4 +1,4 @@
-Aaaaa
+﻿Aaaaa
 Aaaalmed
 Aaba
 Aabacus
@@ -821,7 +821,6 @@ Admikorn
 Adminis
 Administarcja
 Administracj
-Administracyjno
 Administratum
 Adminkul
 Admipol
@@ -1814,7 +1813,6 @@ Agrturystyka
 Agrum
 Agry
 Agryf
-Agrykola
 Agrykolex
 Agsa
 Agsbut
@@ -2434,7 +2432,6 @@ Alcatron
 Alcedo
 Alcemed
 Alces
-Alcest
 Alchem
 Alchembud
 Alcin
@@ -3400,7 +3397,6 @@ Alustic
 Alustyl
 Alusuisse
 Alusystem
-Aluśka
 Aluteam
 Alutec
 Alutech
@@ -3482,7 +3478,6 @@ Amadent
 Amadeo
 Amadeos
 Amader
-Amadeusz
 Amadex
 Amadi
 Amadis
@@ -3562,7 +3557,6 @@ Amay
 Amaz
 Amazet
 Amazir
-Amazonia
 Ambactus
 Ambalt
 Ambar
@@ -3583,6 +3577,7 @@ Ambermoda
 Amberpol
 Ambersil
 Ambersmell
+Amberstar
 Ambest
 Ambex
 Ambi
@@ -3680,7 +3675,6 @@ Amert
 Amertech
 Amervox
 Amerycanos
-Amerykańsko
 Amerz
 Amesko
 Amesys
@@ -3966,7 +3960,6 @@ Anatewka
 Anatex
 Anatextil
 Anatis
-Anatolka
 Anatra
 Anaver
 Anavit
@@ -4025,7 +4018,6 @@ Anco
 Ancom
 Ancoms
 Ancon
-Ancona
 Ancor
 Ancorn
 Ancra
@@ -4039,7 +4031,6 @@ Andala
 Andalex
 Andalousia
 Andalucia
-Andaluzja
 Andam
 Andamar
 Andami
@@ -4146,7 +4137,6 @@ Androtin
 Androx
 Andrób
 Andrybud
-Andrzejowa
 Andrzerj
 Andtop
 Andtrans
@@ -4159,12 +4149,9 @@ Andzia
 Andziam
 Andzrej
 Andżej
-Andżela
-Andżelika
 Andżula
 Aneb
 Anecoop
-Aneczka
 Aned
 Aneda
 Anedar
@@ -4190,8 +4177,6 @@ Anes
 Anesd
 Anesko
 Anest
-Anesteziologiczna
-Anestezjologiczny
 Anesti
 Anestozjolog
 Anet
@@ -4277,7 +4262,6 @@ Anhet
 Anhol
 Anhydro
 Anhydrom
-Ania
 Aniadam
 Aniata
 Aniba
@@ -4303,7 +4287,6 @@ Anigra
 Anigraf
 Anihal
 Anik
-Anika
 Anike
 Anikino
 Anikol
@@ -4472,9 +4455,7 @@ Annako
 Annakom
 Annakraktour
 Annalex
-Annał
 Annamar
-Annamaria
 Annar
 Annaro
 Annatex
@@ -4733,7 +4714,6 @@ Antus
 Antyczek
 Antygrom
 Antyinsekt
-Antykomunistyczny
 Antykon
 Antykor
 Antykorozja
@@ -4840,7 +4820,6 @@ Aparmed
 Aparo
 Aparpom
 Apartagency
-Apartaments
 Apartamex
 Apasjonata
 Apatament
@@ -4936,11 +4915,9 @@ Apofi
 Apogeo
 Apok
 Apol
-Apollin
 Apollon
 Apolloplast
 Apolonica
-Apoloniusz
 Apor
 Aporo
 Apos
@@ -5105,9 +5082,7 @@ Aqwa
 Aqwarius
 Arabela
 Arabella
-Arabesca
 Arabesco
-Arabika
 Arabis
 Aracar
 Araco
@@ -5241,8 +5216,6 @@ Archicon
 Archida
 Archidea
 Archidesign
-Archidiecezjalne
-Archidiecezjalny
 Archidoc
 Archidom
 Archidruk
@@ -5290,9 +5263,6 @@ Architecton
 Architectonica
 Architector
 Architekton
-Architektoniczna
-Architektoniczne
-Architektoniczno
 Architektor
 Architektural
 Architekura
@@ -5646,7 +5616,6 @@ Arktica
 Arktik
 Arkton
 Arktos
-Arktyka
 Arktykuły
 Arku
 Arkun
@@ -6006,7 +5975,6 @@ Artem
 Artema
 Artemar
 Artemia
-Artemida
 Artemiss
 Artemix
 Arteo
@@ -6424,7 +6392,6 @@ Asetss
 Asevent
 Asewan
 Asex
-Asfalcik
 Asfald
 Asff
 Asfol
@@ -6445,7 +6412,6 @@ Ashop
 Asiasushi
 Asiatik
 Asib
-Asieńka
 Asija
 Asim
 Asima
@@ -6537,7 +6503,6 @@ Aspera
 Aspi
 Aspian
 Aspida
-Aspirynka
 Asplant
 Asplus
 Aspo
@@ -6783,8 +6748,6 @@ Atlantico
 Atlantika
 Atlantisystem
 Atlanttis
-Atlantyda
-Atlantyk
 Atlanyk
 Atles
 Atlet
@@ -6845,7 +6808,6 @@ Atpol
 Atra
 Atrak
 Atram
-Atramencik
 Atrans
 Atrax
 Atre
@@ -7037,7 +6999,6 @@ Autel
 Auter
 Autex
 Authol
-Authorised
 Auti
 Autic
 Autim
@@ -7049,7 +7010,6 @@ Autoand
 Autoanteny
 Autoarfach
 Autoart
-Autoassistance
 Autoatest
 Autoaz
 Autobagażówki
@@ -7512,7 +7472,6 @@ Avanel
 Avanet
 Avangard
 Avangarda
-Avangarde
 Avani
 Avanport
 Avans

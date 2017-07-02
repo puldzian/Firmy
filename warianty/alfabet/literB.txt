@@ -1,4 +1,4 @@
-Baac
+﻿Baac
 Baad
 Baaf
 Baag
@@ -16,7 +16,6 @@ Babb
 Babette
 Babex
 Babilion
-Babilonia
 Babugan
 Babupol
 Babycenter
@@ -33,7 +32,6 @@ Bacatj
 Baccaat
 Baccalarium
 Baccara
-Baccarat
 Bacero
 Bachama
 Backoffice
@@ -160,7 +158,6 @@ Bajero
 Bajex
 Bajgips
 Bajkal
-Bajkał
 Bajkoland
 Bajkolandia
 Bajkoludek
@@ -194,7 +191,6 @@ Bajwa
 Bajwid
 Bakachem
 Bakaja
-Bakalia
 Bakam
 Bakama
 Bakap
@@ -370,7 +366,6 @@ Bamastom
 Bamatex
 Bamato
 Bamax
-Bambaryła
 Bambini
 Bambobazyl
 Bambolla
@@ -418,7 +413,6 @@ Bangma
 Banhan
 Banimex
 Banimot
-Banjaluka
 Bankas
 Bankconcept
 Bankfirm
@@ -662,7 +656,6 @@ Basero
 Basfart
 Basfer
 Bashland
-Basieńka
 Basildon
 Basiula
 Basix
@@ -709,7 +702,6 @@ Bastwo
 Basw
 Basylbud
 Baszan
-Baszkir
 Baszpo
 Baśpol
 Batadent
@@ -764,7 +756,6 @@ Batna
 Batojan
 Batomet
 Batomgo
-Batorego
 Batorex
 Batost
 Batpol
@@ -903,7 +894,6 @@ Bazto
 Baztra
 Bazymet
 Bazzar
-Bażancik
 Bąkdomex
 Bbauto
 Bbes
@@ -936,11 +926,9 @@ Beatacam
 Beatel
 Beatex
 Beatexgtc
-Beatka
 Beaton
 Beatris
 Beatronic
-Beatrycze
 Beatuning
 Beatur
 Beaufour
@@ -1055,7 +1043,6 @@ Beharo
 Behatex
 Behaton
 Behaus
-Behemot
 Beherit
 Behid
 Behka
@@ -1126,7 +1113,6 @@ Belgum
 Belhan
 Belhap
 Belial
-Beliccy
 Belico
 Belid
 Belida
@@ -1164,7 +1150,6 @@ Bellezza
 Bellhydro
 Bellina
 Bellis
-Bellisima
 Bellissima
 Bellita
 Bellizing
@@ -1453,7 +1438,6 @@ Bescomo
 Bescon
 Beseda
 Beskidplex
-Beskidy
 Besla
 Besmaja
 Besmarex
@@ -1595,7 +1579,6 @@ Betoneks
 Betonex
 Betonfirma
 Betoniarsko
-Betoniarstwo
 Betonik
 Betonit
 Betonmix
@@ -1724,7 +1707,6 @@ Bialtex
 Bialtrans
 Bialzuk
 Biał
-Białobrzanka
 Biamar
 Biamed
 Biamet
@@ -1795,7 +1777,6 @@ Biczer
 Bidkom
 Bidopeg
 Bieczdrew
-Biedrzychowianka
 Biegiera
 Biegrol
 Biegsport
@@ -1810,7 +1791,6 @@ Bielbit
 Bielbud
 Bielcar
 Bielchem
-Bielczanka
 Bieldom
 Bieldruk
 Bielgiż
@@ -1840,14 +1820,11 @@ Biemus
 Bieprado
 Bieramot
 Bierawka
-Biernaccy
 Bieroil
 Bierol
 Biersin
 Biertex
-Biesiadecki
 Biesterfeld
-Bieszczady
 Biewo
 Biexpol
 Bifamet
@@ -2645,12 +2622,10 @@ Blutex
 Bluxcosmetics
 Błamar
 Błamex
-Błaszkowianka
 Bławaciak
 Bławis
 Bławo
 Błażex
-Błażowiak
 Błed
 Błestal
 Błysmar
@@ -2686,7 +2661,6 @@ Bobmark
 Boboland
 Bobolandia
 Bobolanum
-Bobowianka
 Bobreks
 Bobrol
 Bobropol
@@ -2902,7 +2876,6 @@ Boltimex
 Boltin
 Boltom
 Bolzoni
-Bołtruczukowie
 Bomabol
 Bomadek
 Bomadol
@@ -2995,7 +2968,6 @@ Bonex
 Bonexim
 Bonibud
 Bonico
-Bonifacego
 Bonifarm
 Bonimax
 Bonimed
@@ -3100,7 +3072,6 @@ Bormet
 Bormont
 Bornpol
 Boromir
-Borowiczki
 Borozo
 Borpasz
 Borpelle
@@ -3122,9 +3093,6 @@ Borwald
 Borwid
 Borwis
 Borwod
-Borynianka
-Borzucha
-Bosaczek
 Bosal
 Bosan
 Bosanoga
@@ -3252,10 +3220,8 @@ Bozoma
 Bozzao
 Bożbór
 Bożdress
-Bożenka
 Bożepole
 Bożnar
-Bożysława
 Bpbp
 Bpbw
 Bpgas
@@ -3399,7 +3365,6 @@ Brawos
 Brayan
 Braz
 Brazmet
-Brąszewianka
 Brązart
 Brbj
 Brebistom
@@ -3537,7 +3502,6 @@ Bronbud
 Bronbut
 Broneks
 Bronex
-Broniszanka
 Bronix
 Bronpol
 Bronspet
@@ -3624,7 +3588,6 @@ Brukspol
 Brukstart
 Brukstone
 Brukus
-Brukwiccy
 Brumet
 Brumi
 Brunatherm
@@ -3654,23 +3617,15 @@ Brylex
 Bryliant
 Brylux
 Brymorex
-Bryniczanka
 Brynow
 Brystan
-Brytania
-Brytanka
 Brytex
 Brytimpex
-Brytyjsko
 Bryzolex
 Brzegbud
 Brzegpasz
 Brzeles
 Brzes
-Brzeziccy
-Brzezowieckie
-Brzeźniczanka
-Brzostowianka
 Brzozrem
 Bsab
 Bsie
@@ -4192,7 +4147,6 @@ Bugen
 Bugerman
 Bugipu
 Bugmar
-Bugocki
 Bugopol
 Bugor
 Bugsy
@@ -4210,7 +4164,6 @@ Buinfo
 Buiro
 Buis
 Buisnessman
-Bujakowianka
 Bujmet
 Bujpol
 Bukapr
@@ -4251,7 +4204,6 @@ Bulten
 Bultex
 Bulticon
 Bultman
-Bułgar
 Bumad
 Bumadex
 Bumah
@@ -4290,7 +4242,6 @@ Bunoma
 Bunox
 Buńda
 Buńko
-Buongiorno
 Buos
 Bupar
 Bupeco
@@ -4335,8 +4286,6 @@ Buskerbus
 Buskopol
 Busmarket
 Buspol
-Bussines
-Bussiness
 Bustako
 Bustip
 Busyco
@@ -4353,7 +4302,6 @@ Buti
 Butimex
 Butiqe
 Butiqu
-Butique
 Butis
 Butix
 Butjana
@@ -4419,7 +4367,6 @@ Bynex
 Byno
 Byrmet
 Bystronic
-Bystrzejowice
 Bytomet
 Bytpol
 Bytus

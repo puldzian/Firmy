@@ -49,8 +49,6 @@ Gabrex
 Gabri
 Gabriella
 Gabrielmotoparts
-Gabrysia
-Gabryś
 Gabsar
 Gabu
 Gabud
@@ -61,7 +59,6 @@ Gacjusz
 Gaclux
 Gacmet
 Gacomelli
-Gacuś
 Gacy
 Gadaliel
 Gadar
@@ -159,7 +156,6 @@ Galianosos
 Galiar
 Galicea
 Galicjan
-Galicjanka
 Galides
 Galifax
 Galifruit
@@ -236,8 +232,6 @@ Galwah
 Galwana
 Galwaneks
 Galwanex
-Galwanika
-Galwanizatorstwo
 Galwanizeria
 Galwanotech
 Galwanpro
@@ -312,7 +306,6 @@ Ganar
 Ganbej
 Ganbud
 Gand
-Gandalf
 Gandi
 Gandia
 Gandl
@@ -322,7 +315,6 @@ Ganesh
 Ganesz
 Ganex
 Ganima
-Ganimedes
 Ganinet
 Ganinex
 Ganmet
@@ -376,7 +368,6 @@ Gardinex
 Gardinia
 Gardinio
 Gardinka
-Gardzienice
 Garet
 Garex
 Garfild
@@ -470,7 +461,6 @@ Gastrix
 Gastrocenter
 Gastrocom
 Gastrodom
-Gastroendokrynolog
 Gastrogroup
 Gastrohouse
 Gastrohurt
@@ -857,7 +847,6 @@ Geodexpol
 Geodext
 Geodez
 Geodezis
-Geodezyjno
 Geodik
 Geodikart
 Geodis
@@ -1167,7 +1156,6 @@ Gerlichów
 Germa
 Germain
 Germalex
-Germania
 Germanica
 Germanicum
 Germanicus
@@ -1302,7 +1290,6 @@ Gienex
 Gienia
 Gienka
 Gierbud
-Gierczynówka
 Giersbud
 Giersnet
 Giertech
@@ -1332,7 +1319,6 @@ Gikrol
 Gilan
 Gildemaister
 Gilex
-Gilgamesz
 Gillmet
 Gilmet
 Gilpa
@@ -1358,7 +1344,6 @@ Gimpim
 Gimrpol
 Ginecja
 Gineka
-Ginekologiczno
 Ginekomed
 Ginex
 Ginmet
@@ -1366,13 +1351,11 @@ Ginpol
 Ginsana
 Ginstal
 Ginvet
-Gioconda
 Gioia
 Giokonda
 Giolli
 Gior
 Giordani
-Giorgio
 Giovani
 Giowanna
 Gipart
@@ -1412,7 +1395,6 @@ Gitex
 Giude
 Giudi
 Giusti
-Givenchy
 Giwbud
 Gizamet
 Gizasound
@@ -1420,7 +1402,6 @@ Gizet
 Gizex
 Gizmar
 Gizol
-Gizyckie
 Giżmar
 Gjan
 Gjars
@@ -1615,21 +1596,17 @@ Głogowia
 Głogus
 Głomia
 Głotech
-Głowaccy
 Gmac
 Gmak
 Gmbud
 Gminbruk
-Gminnna
 Gminno
-Gmninny
 Gmproces
 Gmtools
 Gmyrpol
 Gnatex
 Gniadex
 Gniemix
-Gniewczyna
 Gnimet
 Gninna
 Gnoss
@@ -1659,14 +1636,12 @@ Gocargo
 Gocjan
 Goclandia
 Gocólanka
-Goczołowie
 Godaba
 Godagro
 Godalin
 Godam
 Godar
 Godbud
-Godeccy
 Godent
 Godex
 Godi
@@ -1709,7 +1684,6 @@ Gokat
 Gokom
 Golamex
 Golantex
-Golawiczanka
 Golbalux
 Golbet
 Golbud
@@ -1963,7 +1937,6 @@ Gotex
 Goti
 Gotir
 Gotix
-Gotlandia
 Goto
 Gotolet
 Gotomal
@@ -2005,7 +1978,6 @@ Gómar
 Górabex
 Góralex
 Góralmet
-Góralsko
 Góratex
 Górażdze
 Górcki
@@ -2044,7 +2016,6 @@ Grabmark
 Grabmet
 Grabodent
 Graboplast
-Grabowczanka
 Grabowieckiprojekt
 Grabpol
 Grabpor
@@ -2263,7 +2234,6 @@ Grandesa
 Grandex
 Grandi
 Grandmarket
-Grandmaster
 Grandmet
 Grandmir
 Grandnet
@@ -2423,7 +2393,6 @@ Grażis
 Grażmir
 Grażpol
 Grażus
-Grażynka
 Grądex
 Grčnland
 Greal
@@ -2533,7 +2502,6 @@ Gremir
 Gremo
 Gremon
 Grempix
-Gremplarnia
 Grempol
 Gremtex
 Gremur
@@ -2617,12 +2585,10 @@ Griz
 Grnb
 Groart
 Grobiko
-Grobliccy
 Grobo
 Grobud
 Grocar
 Grochbud
-Groclin
 Groco
 Grocom
 Grodeccy
@@ -2632,7 +2598,6 @@ Grodex
 Grodmal
 Grodmar
 Grodruk
-Grodzianka
 Groemix
 Groeneveld
 Grofer
@@ -2736,7 +2701,6 @@ Grupamedialna
 Gruplast
 Gruppa
 Gruppo
-Gruszeccy
 Grutabar
 Grutex
 Gruv
@@ -2787,11 +2751,8 @@ Grzbiec
 Grzechbud
 Grzechowisko
 Grzegomar
-Grzegórzycki
 Grzejan
 Grzejar
-Grzelakowie
-Grzeleccy
 Grzemi
 Grzemusz
 Grzenex
@@ -2930,7 +2891,6 @@ Gusoft
 Guspol
 Gusst
 Gustaff
-Gustawek
 Gusti
 Gutbruk
 Guterpol
@@ -2946,6 +2906,7 @@ Gutronik
 Guttex
 Guwex
 Guwi
+Guwno
 Guzbau
 Guzex
 Guzi

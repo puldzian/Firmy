@@ -1,4 +1,4 @@
-Cabandeyro
+﻿Cabandeyro
 Cabaro
 Cabatrans
 Caberg
@@ -19,7 +19,6 @@ Cadar
 Cadaro
 Cadbery
 Cadbud
-Cadbury
 Cadcam
 Cadeaux
 Cadeem
@@ -44,7 +43,6 @@ Cadsol
 Cadstudio
 Cadwork
 Caema
-Cafe
 Cafebar
 Cafejak
 Cafekontakt
@@ -65,7 +63,6 @@ Cait
 Cajdex
 Calamus
 Calan
-Calanetics
 Calbud
 Calcul
 Caldent
@@ -85,7 +82,6 @@ Calier
 Calikco
 Caliko
 Calimera
-Calineczka
 Calino
 Caliors
 Calipso
@@ -127,7 +123,6 @@ Calwent
 Calyon
 Calza
 Calze
-Calzedonia
 Calzificio
 Calzone
 Całobowa
@@ -267,7 +262,6 @@ Capitalone
 Capitan
 Capm
 Capo
-Cappella
 Capreciosa
 Capriciosa
 Capricioza
@@ -332,7 +326,6 @@ Carcade
 Carcadia
 Carcajada
 Carcas
-Carcassonne
 Carchem
 Carcold
 Carcom
@@ -432,7 +425,6 @@ Carline
 Carlings
 Carlita
 Carlito
-Carlsberg
 Carmalin
 Carman
 Carmar
@@ -479,7 +471,6 @@ Carosweet
 Carotex
 Carpa
 Carpark
-Carpatia
 Carpatus
 Carpe
 Carpent
@@ -493,7 +484,6 @@ Carpol
 Carramba
 Carrara
 Carre
-Carrefour
 Carrera
 Carrida
 Carrini
@@ -696,7 +686,6 @@ Cebron
 Cebud
 Cecar
 Ceccato
-Cechowianka
 Cechtar
 Cecomm
 Cedako
@@ -764,7 +753,6 @@ Ceillcon
 Ceimir
 Ceivis
 Cejan
-Cejlon
 Cejmar
 Cejot
 Cejsi
@@ -806,7 +794,6 @@ Celentano
 Celeris
 Celero
 Celertis
-Celestynka
 Celgaz
 Celgum
 Celident
@@ -852,7 +839,6 @@ Celpro
 Cels
 Celsa
 Celservice
-Celsjusz
 Celso
 Celsos
 Celsped
@@ -1045,7 +1031,6 @@ Centrozbyt
 Centrozłom
 Centrtour
 Centruck
-Cen­trum
 Centrumelektroniki
 Centrun
 Centrus
@@ -1277,7 +1262,6 @@ Cezanet
 Cezap
 Cezarch
 Cezarex
-Cezaria
 Cezarin
 Cezariusz
 Cezarja
@@ -1351,7 +1335,6 @@ Charonn
 Charox
 Charpol
 Chartex
-Charzykowianka
 Chasse
 Chassmi
 Chaszis
@@ -1618,7 +1601,6 @@ Chirofarm
 Chiromed
 Chiros
 Chirurgica
-Chirurgiczno
 Chis
 Chitonex
 Chlodnia
@@ -1642,22 +1624,18 @@ Chłodster
 Chłodus
 Chmes
 Chmielo
-Chmielowie
 Chmielpol
 Chmurtex
 Chobal
 Chobit
 Chocar
-Chociwelanka
 Choco
 Chod
-Chodakowianka
 Chodcza
 Chodelka
 Chodent
 Chodex
 Chodfil
-Chodkiewicza
 Chodmetal
 Chodorex
 Chodowiak
@@ -1692,7 +1670,6 @@ Chorten
 Chortrans
 Chortycia
 Chorużyisyn
-Chorwacja
 Chorzowsko
 Chos
 Choszczół
@@ -1721,7 +1698,6 @@ Christoforos
 Christophery
 Christopol
 Chro
-Chrobakowie
 Chromar
 Chromat
 Chromax
@@ -1741,7 +1717,6 @@ Chrupex
 Chrymar
 Chryspol
 Chrystiana
-Chrystus
 Chsjds
 Chtchensnovitch
 Chudex
@@ -1773,7 +1748,6 @@ Cichseed
 Ciechbud
 Ciechseed
 Ciechtrans
-Ciekłokrystaliczne
 Ciepbud
 Ciepłobud
 Ciepłogaz
@@ -1785,12 +1759,10 @@ Ciepłotech
 Ciepłotechnika
 Ciepłotek
 Ciepłowod
-Cieroccy
 Cieszkom
 Cieszpol
 Cieszymir
 Ciężarmot
-Ciężkowianka
 Cifial
 Cigma
 Cigna
@@ -1821,7 +1793,6 @@ Ciromat
 Cirqle
 Cisarż
 Cisbud
-Cisowianka
 Cispol
 Citec
 Citex
@@ -2967,9 +2938,7 @@ Cowrem
 Coza
 Cozmo
 Cpkf
-Cracovia
 Cracovian
-Cracow
 Cracus
 Crafi
 Craftbud
@@ -3157,7 +3126,6 @@ Cultus
 Cunin
 Cunninham
 Cuore
-Cupiałówka
 Cuporex
 Cuprex
 Cuprimex
@@ -3185,7 +3153,6 @@ Cwka
 Cwks
 Cyam
 Cybellus
-Cyber
 Cyberbajt
 Cybercomp
 Cyberdusk
@@ -3227,7 +3194,6 @@ Cyfrus
 Cyglerstyl
 Cyklady
 Cyklinafets
-Cykliniarstwo
 Cyklo
 Cyklomaster
 Cyklomen
@@ -3254,14 +3220,11 @@ Cyntfarm
 Cyntia
 Cyperus
 Cypis
-Cypisek
 Cypiss
 Cypr
 Cyprem
 Cypres
-Cypriana
 Cyprio
-Cyprysek
 Cyranajka
 Cyrbud
 Cyrhla
@@ -3296,7 +3259,6 @@ Czamet
 Czamey
 Czamir
 Czapex
-Czaplinianka
 Czapol
 Czarbud
 Czarbut
@@ -3311,7 +3273,6 @@ Czarkam
 Czarkaz
 Czarmet
 Czarmięs
-Czarneccy
 Czarnkowsko
 Czarodent
 Czarowanka
@@ -3357,14 +3318,11 @@ Czempol
 Czer
 Czerbud
 Czerchań
-Czerniakowie
-Czerniawianka
 Czerom
 Czersi
 Czerstal
 Czerwinki
 Czesbud
-Czesio
 Czeskar
 Czestal
 Czestax
@@ -3383,10 +3341,8 @@ Czpm
 Czterolistek
 Czteryczwarte
 Czterylitery
-Czuchowianka
 Czukspan
 Czwórbranża
-Czwóreczka
 Czychu
 Czynisto
 Czystal
