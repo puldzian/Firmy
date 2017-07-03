@@ -19,7 +19,6 @@
 Żamaro
 Żamex
 Żana
-Żaneta
 Żanett
 Żanette
 Żanex
@@ -57,14 +56,12 @@
 Żeżała
 Żiro
 Żłobko
-Żmudzieł
 Żoli
 Żolitex
 Żorlina
 Żródełko
 Żródłowa
 Żuarawel
-Żurawianka
 Żurkon
 Żwirbud
 Żwireck
@@ -72,5 +69,4 @@
 Żwirmam
 Żwiromax
 Żychel
-Żywiccy
 Żywix

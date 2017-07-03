@@ -5,7 +5,6 @@ Oazza
 Obaco
 Obag
 Obelix
-Oberceniówka
 Oberix
 Obex
 Obis
@@ -89,7 +88,6 @@ Odraport
 Odratrans
 Odrew
 Odrex
-Odrzanka
 Odsi
 Odsnieżanie
 Odsw
@@ -103,7 +101,6 @@ Odysseum
 Odzieżowianka
 Oeconomikus
 Oedo
-Oehling
 Oepd
 Oerlemans
 Oevermann
@@ -155,19 +152,13 @@ Ogniochronex
 Ogniokor
 Ogniopol
 Ogniotech
-Ogolnobudowlane
 Ogólno
-Ogólnokształcąca
-Ogólnokształcące
-Ogółnokształcąca
-Ogónokształcąca
 Ogpol
 Ogro
 Ogrobud
 Ogrochem
 Ogrodekor
 Ogrodex
-Ogrodniczo
 Ogrodolandia
 Ogrodon
 Ogrodznia
@@ -218,7 +209,6 @@ Okinplast
 Okir
 Okis
 Okland
-Okleinowanie
 Okma
 Okmann
 Okmar
@@ -308,10 +298,8 @@ Okpar
 Okplast
 Okpol
 Okpoz
-Okregowa
 Okretet
 Okrol
-Okrzejka
 Oksan
 Oksbud
 Oksel
@@ -333,7 +321,6 @@ Oktanpol
 Oktar
 Oktasoft
 Oktavia
-Oktawian
 Oktech
 Okted
 Oktel
@@ -404,21 +391,16 @@ Oldrew
 Oldruk
 Oldstar
 Olefarb
-Olekhovskyi
-Oleksandr
 Olektan
-Oleńka
 Oleq
 Olespol
 Olesta
 Oleste
 Olestudio
-Oleszakowie
 Oletrans
 Oletta
 Olexcar
 Olexim
-Olędzka
 Olfi
 Olgab
 Olgadent
@@ -480,9 +462,7 @@ Oliverdecor
 Olivetum
 Olivex
 Olivka
-Oliwer
 Oliwex
-Oliwia
 Olix
 Olja
 Olkada
@@ -993,7 +973,6 @@ Orang
 Oras
 Orata
 Orawa
-Orawianka
 Oray
 Orbal
 Orbers
@@ -1045,10 +1024,7 @@ Orga
 Organica
 Organikon
 Organiks
-Organised
-Organmistrzostwo
 Organo
-Organomistrzostwo
 Orgbud
 Orgbudin
 Orghanpol
@@ -1096,8 +1072,6 @@ Oritex
 Orium
 Orix
 Orizio
-Orkana
-Orkanówka
 Orkim
 Orkip
 Orkis
@@ -1108,11 +1082,9 @@ Orky
 Orlech
 Orlena
 Orlenpetro
-Orlewianka
 Orlex
 Orlki
 Orłex
-Orłowianka
 Ormar
 Ormax
 Ormeb
@@ -1121,7 +1093,6 @@ Ormet
 Ormex
 Ormigon
 Ormot
-Ornamencik
 Ornatrix
 Ornatus
 Ornawa
@@ -1193,7 +1164,6 @@ Ortomedika
 Ortometria
 Ortopedic
 Ortopedus
-Ortopedyczno
 Ortopedyk
 Ortopedyka
 Ortoplus
@@ -1218,9 +1188,6 @@ Orwibud
 Orwil
 Orwo
 Orwox
-Orzepowiczanka
-Orzesko
-Orzyckie
 Osadam
 Osadopol
 Osal
@@ -1242,7 +1209,6 @@ Osjann
 Oskal
 Oskald
 Oskan
-Oskarówka
 Oskart
 Oskeli
 Oskir
@@ -1260,7 +1226,6 @@ Osmopal
 Osmozis
 Osowaplast
 Osoweks
-Osowieccy
 Ospasz
 Ospel
 Ospol
@@ -1309,12 +1274,10 @@ Ostromed
 Ostrov
 Ostrovia
 Ostrow
-Ostrzyccy
 Osttent
 Oswo
 Oszin
 Oszyszczalnia
-Ośnieccy
 Ośodek
 Ośrode
 Ośrodekrehabilitacji
@@ -1349,7 +1312,6 @@ Otodruk
 Otomex
 Otomobil
 Otor
-Otorynolaryngologia
 Otoz
 Otpol
 Otrans
@@ -1363,7 +1325,6 @@ Ottimo
 Ottoakar
 Ottokar
 Ottomeyer
-Otylia
 Outhorn
 Outipol
 Outokompu
@@ -1441,5 +1402,4 @@ Ozmar
 Ozmet
 Ozns
 Ozonomatic
-Ozyrys
 Ozzo

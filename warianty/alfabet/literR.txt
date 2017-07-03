@@ -101,7 +101,6 @@ Radimpex
 Radinstalbud
 Radiodetection
 Radiodiagnostyka
-Radioelektronika
 Radiokom
 Radiolas
 Radiolex
@@ -113,7 +112,6 @@ Radiotel
 Radioton
 Radir
 Radirex
-Radisson
 Radix
 Radjan
 Radjostezja
@@ -160,7 +158,6 @@ Radomix
 Radomstol
 Radoskór
 Radotir
-Radowianka
 Radox
 Radpak
 Radpec
@@ -195,10 +192,8 @@ Radżatex
 Rafabud
 Rafada
 Rafado
-Rafaela
 Rafaeldata
 Rafaell
-Rafaello
 Rafaelo
 Rafag
 Rafago
@@ -301,7 +296,6 @@ Rahamim
 Rahel
 Rahmad
 Raido
-Raiffeisen
 Raiffpol
 Railog
 Rainbowcolor
@@ -520,20 +514,17 @@ Raptur
 Rarapi
 Rarbud
 Rarr
-Rarytasek
 Rasamat
 Rasco
 Rasoft
 Raspol
 Rastar
-Rasterek
 Rasterflex
 Rastex
 Rasyl
 Raszbud
 Raszlo
 Raszpol
-Ratajowie
 Ratayczak
 Ratbar
 Ratbud
@@ -552,7 +543,6 @@ Ratmed
 Ratmix
 Ratmur
 Ratnox
-Ratośniówki
 Ratox
 Ratpol
 Ratrans
@@ -623,7 +613,6 @@ Rawon
 Rawona
 Rawos
 Rawpol
-Rawszczyzna
 Raxa
 Raxell
 Raxis
@@ -673,7 +662,6 @@ Reault
 Rebau
 Rebax
 Rebbmann
-Rebeca
 Rebesko
 Rebi
 Rebikan
@@ -744,7 +732,6 @@ Redil
 Redim
 Redix
 Redliton
-Redłowianka
 Redma
 Redmark
 Redmax
@@ -765,7 +752,6 @@ Redtech
 Redus
 Redux
 Redx
-Redykołka
 Redyspol
 Reen
 Reeplay
@@ -817,12 +803,10 @@ Reghak
 Reghen
 Regi
 Regia
-Reginalny
 Regio
 Regionala
 Regionet
 Regiopro
-Regips
 Regipsylublin
 Regir
 Regius
@@ -1233,9 +1217,7 @@ Renalto
 Renapaw
 Renar
 Renat
-Renata
 Renatex
-Renatka
 Renatrans
 Renawa
 Renax
@@ -1334,7 +1316,6 @@ Renow
 Renowa
 Renoware
 Renowation
-Renowatornia
 Renowatum
 Renowex
 Renox
@@ -1435,7 +1416,6 @@ Resnaft
 Resorex
 Resorrex
 Resov
-Resovia
 Resowiak
 Resox
 Respak
@@ -1465,7 +1445,6 @@ Restor
 Restpol
 Restrol
 Restronik
-Restrukturyzacja
 Restur
 Resturacja
 Restyl
@@ -1475,7 +1454,6 @@ Resurrexit
 Resurus
 Resus
 Reswal
-Reszelanka
 Retab
 Retaba
 Retana
@@ -1622,7 +1600,6 @@ Rhod
 Rhodia
 Rhosoftware
 Rhythmica
-Rialto
 Riana
 Ribek
 Ribena
@@ -1636,10 +1613,8 @@ Rica
 Ricambi
 Ricard
 Ricc
-Riccardo
 Ricco
 Riccoli
-Richardo
 Richi
 Rickes
 Ricoh
@@ -1706,7 +1681,6 @@ Risart
 Riskel
 Riso
 Risomur
-Ristorante
 Ritbet
 Riteh
 Ritex
@@ -1744,8 +1718,6 @@ Roani
 Roann
 Roas
 Robac
-Robaczówka
-Robalex
 Roband
 Robapharm
 Robart
@@ -1930,7 +1902,6 @@ Rofis
 Rofix
 Röfix
 Rofryd
-Rogaliczek
 Rogamex
 Rogatin
 Rogbud
@@ -1985,7 +1956,6 @@ Rokbud
 Rokbus
 Roker
 Rokitex
-Rokitnianka
 Rokko
 Rokkol
 Rokland
@@ -2275,7 +2245,6 @@ Romark
 Romaro
 Romarol
 Romashka
-Romaszówka
 Romat
 Romatex
 Romator
@@ -2460,7 +2429,6 @@ Rostel
 Rostex
 Rosti
 Rostol
-Rostowicki
 Rostyle
 Rotaks
 Rotal
@@ -2536,7 +2504,6 @@ Rowet
 Rowex
 Rowi
 Rowibud
-Rowiccy
 Rowimet
 Rowimpex
 Rowin
@@ -2598,14 +2565,12 @@ Rozmex
 Roznos
 Rozpiek
 Rozpol
-Roztoczanka
 Rożno
 Róbeko
 Różamet
 Różatex
 Różopol
 Różpol
-Różyccy
 Rpbi
 Rpbud
 Rpis
@@ -2614,7 +2579,7 @@ Rpol
 Rprb
 Rrab
 Rramp
-Rr_architekci
+Rrarchitekci
 Rremo
 Rsport
 Rstar
@@ -2671,15 +2636,12 @@ Rufin
 Rufis
 Rugar
 Rugbuś
-Rugia
 Ruhan
 Ruhrgas
 Rukarbud
 Rumar
 Rumat
 Rumbud
-Rumcajs
-Rumcajsik
 Rumet
 Rumex
 Rumi
@@ -2701,7 +2663,6 @@ Rupi
 Rupili
 Rupis
 Ruppceramika
-Ruptowianka
 Rurad
 Rurbud
 Rurex
@@ -2743,14 +2704,12 @@ Rutpol
 Rxpol
 Ryand
 Rybaaz
-Rybaczówka
 Rybarex
 Rybcent
 Ryben
 Rybex
 Rybexim
 Rybhand
-Rybiccy
 Rybkur
 Rybmar
 Rybmor
@@ -2820,8 +2779,6 @@ Ryntex
 Ryntronix
 Rysbux
 Rysel
-Rysiaczek
-Rysieńka
 Rysk
 Rysmar
 Rysmont
@@ -2833,7 +2790,6 @@ Rystel
 Rysterm
 Rystex
 Rystor
-Ryszarda
 Ryszardex
 Ryśbud
 Ryśtrans
@@ -2872,5 +2828,4 @@ Rzetelmość
 Rzgw
 Rzoug
 Rzydóch
-Rzymskokatolicki
 Rzywacz

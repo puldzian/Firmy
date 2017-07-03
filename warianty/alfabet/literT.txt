@@ -101,7 +101,6 @@ Tadrox
 Tadvet
 Tadwic
 Tady
-Tadzio
 Taekwon
 Taewo
 Tafbud
@@ -226,7 +225,6 @@ Tamir
 Tamirox
 Tamis
 Tamix
-Tamiza
 Tammerneon
 Tamot
 Tampo
@@ -259,7 +257,6 @@ Taneks
 Tanel
 Tanex
 Tanfo
-Tanganika
 Tangaz
 Tangere
 Tangra
@@ -450,11 +447,9 @@ Tasyno
 Taszmed
 Tataserwis
 Tati
-Tatiana
 Taticar
 Tatiz
 Tatjana
-Tatmal
 Tatmax
 Tatpol
 Tatramat
@@ -515,7 +510,6 @@ Taxlas
 Taxm
 Taxman
 Taxo
-Taxometry
 Taxpart
 Taxpol
 Taxrad
@@ -1103,7 +1097,6 @@ Telekompleks
 Telekomplex
 Telekomputer
 Telekomunication
-Telekomunikacyjne
 Telekontakt
 Telekontrakt
 Telekros
@@ -1223,7 +1216,6 @@ Telia
 Telicom
 Telida
 Telima
-Telimena
 Telimenynet
 Telimex
 Telimp
@@ -1440,8 +1432,6 @@ Tenspeed
 Tento
 Tentor
 Tenya
-Teodora
-Teodozja
 Teoel
 Teokna
 Teom
@@ -2072,7 +2062,6 @@ Tjan
 Tjmobile
 Tjps
 Tkaninex
-Tkaninka
 Tkanitex
 Tkanix
 Tkanmet
@@ -2086,7 +2075,6 @@ Tlumacz
 Tlumaczenia
 Tłiks
 Tłobud
-Tłumaczeniowo
 Tłumix
 Tłumniki
 Tmaj
@@ -2622,7 +2610,6 @@ Toser
 Tosia
 Tosk
 Toskan
-Toskania
 Toskar
 Toskór
 Tosmak
@@ -2716,7 +2703,6 @@ Tradar
 Tradart
 Tradbud
 Tradeco
-Tradehouse
 Tradeks
 Trademar
 Tradeways
@@ -3145,7 +3131,6 @@ Tranzmez
 Tranzpolonia
 Trapaer
 Trapex
-Trapezowanie
 Traq
 Trasco
 Traset
@@ -3202,7 +3187,6 @@ Traz
 Trazar
 Trazbyt
 Trch
-Treadstone
 Trebor
 Trebron
 Trebruk
@@ -3342,10 +3326,8 @@ Troax
 Trobix
 Trobud
 Trobus
-Trocadero
 Trocaderro
 Trocal
-Trocinka
 Troda
 Trodat
 Trofeo
@@ -3436,7 +3418,6 @@ Trystero
 Trytoń
 Tryzbi
 Trzemna
-Trzuskawica
 Trzycztery
 Trzyem
 Tsantos
@@ -3482,7 +3463,6 @@ Tumigos
 Tuneforce
 Tunet
 Tunex
-Tunezja
 Tuni
 Tuniek
 Tunisair
@@ -3599,7 +3579,6 @@ Tynkbud
 Tynkmur
 Tynmar
 Typodrom
-Tyrałówka
 Tyranik
 Tyreks
 Tyres
@@ -3614,7 +3593,6 @@ Tysbut
 Tysia
 Tysol
 Tyspol
-Tyszkiewicza
 Tytanbiel
 Tytanet
 Tytanex

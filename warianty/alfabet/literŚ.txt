@@ -8,7 +8,6 @@
 Śliwbud
 Ślusan
 Ślusarpol
-Ślusarsko
 Ślusarstwotransport
 Ślusarswo
 Ślusatrstwo
@@ -17,12 +16,9 @@
 Śmigbud
 Śmigrol
 Śniadecja
-Śniadeckich
-Śniadowianka
 Śnieżnica
 Śprd
 Środ
-Śródborowianka
 Śrubchem
 Śrubenit
 Śrubentek
@@ -33,8 +29,6 @@
 Śrubtex
 Światkówka
 Światłomir
-Światowid
-Światowit
 Światpol
 Świd
 Świdpol
@@ -42,10 +36,6 @@
 Świelica
 Świerkoraj
 Świerkpol
-Świerszczykowe
-Świerzonka
-Świerżanka
-Świętochłowickie
+Świerzonk
 Świstrans
-Świteź
 Świtland
