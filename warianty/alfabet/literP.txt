@@ -48,7 +48,6 @@ Pactoris
 Pactum
 Pactv
 Pacyfic
-Pacyfik
 Padanfol
 Padawa
 Padbel
@@ -243,7 +242,6 @@ Palmarola
 Palmart
 Palmbeach
 Palmex
-Palmiarenka
 Palmir
 Palmont
 Palmot
@@ -254,7 +252,6 @@ Palomag
 Palomed
 Palomina
 Palopak
-Palowiczanka
 Palpol
 Palrem
 Palsa
@@ -270,8 +267,6 @@ Palzmet
 Palzyt
 Pałbud
 Pałmex
-Pałuczanin
-Pałuczanka
 Pamaa
 Pamacolor
 Pamad
@@ -295,7 +290,6 @@ Pambot
 Pamech
 Pameks
 Pamelek
-Pamelka
 Pamer
 Pamerica
 Pamet
@@ -424,7 +418,6 @@ Panzaj
 Panzet
 Pańczak
 Pańczuk
-Pańczyszyn
 Pańta
 Paol
 Paola
@@ -505,7 +498,6 @@ Parbud
 Parcar
 Parcon
 Pardaf
-Pardałówka
 Pardet
 Paredo
 Parejo
@@ -532,9 +524,6 @@ Pariwar
 Parix
 Parkanex
 Parkettpol
-Parkieciarsko
-Parkieciarstwo
-Parkiecik
 Parkietek
 Parkieter
 Parkietex
@@ -558,7 +547,6 @@ Parmet
 Parmir
 Parmis
 Parnag
-Parnasik
 Parnter
 Paroc
 Parola
@@ -649,7 +637,6 @@ Pasteura
 Pastle
 Pastpol
 Pastrans
-Pastuszakowie
 Paszbud
 Paszmark
 Paszmiks
@@ -752,7 +739,6 @@ Pavet
 Pavi
 Pavis
 Pavlo
-Pavlovič
 Pavlus
 Pavo
 Pavonique
@@ -776,7 +762,6 @@ Pawe
 Pawede
 Paweks
 Pawelo
-Pawełczyn
 Pawemi
 Pawer
 Pawerdo
@@ -791,7 +776,6 @@ Pawikar
 Pawilom
 Pawimar
 Pawimex
-Pawiówka
 Pawir
 Pawirex
 Pawis
@@ -839,7 +823,6 @@ Pazim
 Pazpol
 Pazza
 Pazzo
-Pączkarnia
 Pbdim
 Pbht
 Pbhu
@@ -905,7 +888,6 @@ Pecetnet
 Peceval
 Pecewal
 Pechgal
-Pecjalistyczna
 Pecmed
 Peco
 Pecolit
@@ -913,12 +895,10 @@ Pector
 Pectus
 Pecunia
 Pedeef
-Pediatryczno
 Pedim
 Peding
 Pediz
 Pedmo
-Pedriatyczny
 Pedrotrans
 Pedwin
 Peemex
@@ -930,7 +910,6 @@ Pefra
 Pefron
 Pegas
 Pegaso
-Pegazik
 Pegi
 Pegimek
 Pegis
@@ -1150,9 +1129,7 @@ Perpedes
 Perpol
 Persavon
 Perschmann
-Persefona
 Persena
-Perseusz
 Perseverantia
 Perskór
 Personex
@@ -1411,7 +1388,6 @@ Phutechnika
 Phuw
 Phwd
 Physio
-Physiotherapie
 Phytavie
 Phytopharm
 Piab
@@ -1501,11 +1477,9 @@ Piema
 Piemarket
 Pieniny
 Pieńczuk
-Pieńkosz
 Piere
 Pierino
 Piero
-Pierogarnia
 Pierot
 Pieroth
 Pierro
@@ -1519,7 +1493,6 @@ Pietradar
 Pietrans
 Pietrosul
 Pięknosfera
-Piętaszek
 Pifar
 Piffaut
 Pigar
@@ -1553,7 +1526,6 @@ Pilart
 Pilbud
 Pilcar
 Pilex
-Pilgród
 Pilins
 Pilion
 Pilkington
@@ -1580,8 +1552,6 @@ Piltex
 Pilula
 Pilvid
 Pily
-Piłatowie
-Piłczarka
 Piłkos
 Piłmet
 Pimal
@@ -1722,8 +1692,6 @@ Pipetech
 Pipi
 Pippo
 Pirab
-Piracik
-Piraciki
 Piramidał
 Piranus
 Pirbud
@@ -1748,7 +1716,6 @@ Pisip
 Pisonek
 Pisop
 Pispuhb
-Pitagoras
 Pitbus
 Pitermax
 Piters
@@ -1779,7 +1746,6 @@ Pixzell
 Pizzaexpress
 Pizzarina
 Pizzatino
-Pizzernia
 Pizzidea
 Pjerot
 Pjotr
@@ -2015,7 +1981,6 @@ Płaj
 Płodorol
 Płoko
 Płonex
-Płoweccy
 Płytameb
 Płytex
 Płytexpol
@@ -2028,7 +1993,7 @@ Płytwiór
 Pmark
 Pmbud
 Pmicombera
-P'mix
+Pmix
 Pmss
 Pmst
 Pmuh
@@ -2067,32 +2032,19 @@ Podafin
 Podakas
 Podan
 Podatex
-Podbeskidzia
-Podbipięta
 Podekor
 Podent
 Podewils
 Podex
 Podfruct
-Podgródzie
-Podhalanin
-Podhalanka
 Podhale
 Podimed
 Podjazdek
-Podkarczówka
-Podkarpacie
 Podkarpacke
 Podkarsped
 Podkomet
-Podkowianka
-Podlasianka
-Podlesianka
-Podlesniczówka
-Podleśniczówka
 Podlimex
 Podlux
-Podłysica
 Podmar
 Podologia
 Podravka
@@ -2109,11 +2061,6 @@ Poges
 Poglesz
 Pogopan
 Pogor
-Pogorzanin
-Pogożelec
-Pogórzanin
-Pogórzanka
-Pogrodzianka
 Pohanex
 Pohlen
 Pohltex
@@ -2492,14 +2439,12 @@ Poliglot
 Poliglotus
 Poligra
 Poligrafica
-Poligraficzno
 Poligrafserwis
 Poligrafus
 Poligram
 Poligraphic
 Poligratserwis
 Poligro
-Poligrodzianie
 Poligum
 Polihandel
 Polihymnia
@@ -3095,9 +3040,7 @@ Polzro
 Polzug
 Polżwir
 Połan
-Położniczo
 Połpan
-Południowo
 Pomaal
 Pomag
 Pomak
@@ -3123,7 +3066,6 @@ Pomer
 Pomet
 Pomex
 Pomexim
-Pomezania
 Pomi
 Pomicom
 Pomidoro
@@ -3134,8 +3076,6 @@ Pomkol
 Pommernfisch
 Pommernjagd
 Pommier
-Pomoria
-Pomorzanin
 Pompar
 Pompax
 Pompbet
@@ -3152,7 +3092,6 @@ Pomtech
 Pomtor
 Pomus
 Pomykoła
-Ponadlokalne
 Ponako
 Ponderosa
 Poneco
@@ -3176,8 +3115,6 @@ Popcar
 Popea
 Popero
 Popex
-Popielanka
-Popielniccy
 Popielóka
 Poprad
 Poprostu
@@ -3234,7 +3171,6 @@ Porubis
 Posa
 Posadex
 Posadz
-Posadzkarstwo
 Posard
 Posbau
 Posbet
@@ -3253,9 +3189,7 @@ Posnet
 Posoja
 Pospress
 Pospring
-Posrednictwo
 Possessio
-Postaremczakowie
 Postbud
 Postdata
 Poste
@@ -3271,7 +3205,6 @@ Postinfo
 Postino
 Postmax
 Posto
-Postolnikov
 Pośdrednictwo
 Pośred
 Pośrednicwo
@@ -3331,7 +3264,6 @@ Pożmas
 Pożsekuryt
 Pożserwis
 Półchjłopek
-Północno
 Pparker
 Ppas
 Ppbh
@@ -3442,7 +3374,6 @@ Prasbet
 Prasgum
 Prasmet
 Prasomix
-Praszkowianka
 Pratesi
 Pratex
 Prato
@@ -3969,8 +3900,6 @@ Proferem
 Profesal
 Profesan
 Profesional
-Profesionalna
-Profesionalne
 Profesjonal
 Profesjonel
 Profesjonista
@@ -4222,7 +4151,6 @@ Projektobud
 Projektodajnia
 Projekton
 Projektorr
-Projektownia
 Projektplan
 Projektpol
 Projektsol
@@ -4386,7 +4314,6 @@ Promesse
 Prometal
 Prometall
 Prometeus
-Prometeusz
 Prometex
 Prometówka
 Prometplast
@@ -4672,7 +4599,6 @@ Prowa
 Prowal
 Prowan
 Prowana
-Prowansja
 Prowap
 Prowater
 Prowbit
@@ -4776,14 +4702,12 @@ Przedsiebiortswo
 Przedsięb
 Przedsiębiiorstwo
 Przedsiębioprstwo
-Przedsiębiorczość
 Przedsiębiordtwo
 Przedsiębiorsteo
 Przedsiębiorsto
 Przedsiębiorstowo
 Przedsiębiorstwa
 Przedsiębiorstwo
-Przedsiębiorstwousługowo
 Przedsiębiorstwp
 Przedsiębiorswo
 Przedsiębiorswto
@@ -4800,7 +4724,6 @@ Przedsiębsiębiorstwo
 Przedsiębuiorstwo
 Przedsięiorstwo
 Przedsioębiorstwo
-Przedstawicielstwo
 Przedśębiorstwo
 Przekar
 Przem
@@ -4861,7 +4784,6 @@ Psychorecruitment
 Psychosoma
 Psychotronics
 Psyma
-Pszczeliniec
 Pszczelmiód
 Pśrednictwo
 Ptcom
@@ -4886,11 +4808,8 @@ Publitel
 Pubr
 Pubrex
 Pucci
-Puchatek
 Puchatex
-Puchatkowy
 Pucus
-Pucuś
 Puczpol
 Pudełkowo
 Pudiz
@@ -4978,7 +4897,6 @@ Pwer
 Pwgaz
 Pwhu
 Pwhup
-Pwiatowy
 Pwik
 Pwkurant
 Pwnawra

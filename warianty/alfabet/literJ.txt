@@ -104,8 +104,6 @@ Jacservis
 Jactrans
 Jacula
 Jacze
-Jaćwież
-Jaćwing
 Jadar
 Jadarbud
 Jadarek
@@ -117,7 +115,6 @@ Jadexim
 Jadik
 Jadin
 Jadka
-Jadkowiak
 Jadku
 Jadłodalnia
 Jadłomania
@@ -165,7 +162,6 @@ Jagapol
 Jagar
 Jagart
 Jagatex
-Jagatówka
 Jagaz
 Jagbud
 Jagdor
@@ -173,13 +169,6 @@ Jagdpol
 Jagert
 Jagez
 Jaggers
-Jagiellonia
-Jagiellonka
-Jagiellończycy
-Jagiellończyka
-Jagielonka
-Jagienka
-Jagieńka
 Jagik
 Jagim
 Jagis
@@ -433,7 +422,6 @@ Janhel
 Janhen
 Janhub
 Janicar
-Janiccy
 Janiko
 Janikosoda
 Janimar
@@ -445,7 +433,6 @@ Janipek
 Janipex
 Janipol
 Janir
-Janiszewki
 Janitech
 Janitex
 Janix
@@ -554,7 +541,6 @@ Jantras
 Jantur
 Januss
 Januszbud
-Januszkiwicz
 Janvox
 Janwa
 Janwal
@@ -591,7 +577,6 @@ Japparts
 Japr
 Japta
 Jaquinelle
-Jaracza
 Jarad
 Jaran
 Jarand
@@ -771,7 +756,6 @@ Jaryda
 Jarymex
 Jaryt
 Jarzbud
-Jarzębianka
 Jasal
 Jasam
 Jasan
@@ -788,7 +772,6 @@ Jaskara
 Jaskina
 Jaskom
 Jaskon
-Jaskółczyn
 Jaskór
 Jaslam
 Jaslux
@@ -832,9 +815,7 @@ Jaszczałt
 Jaszlod
 Jaszpol
 Jaszym
-Jaśkowa
 Jaśma
-Jaśmina
 Jaśpol
 Jatakin
 Jatan
@@ -941,7 +922,6 @@ Jazeks
 Jazen
 Jazet
 Jazex
-Jaziniecki
 Jazłom
 Jazmar
 Jazo
@@ -969,7 +949,6 @@ Jedavid
 Jedliniok
 Jedormi
 Jedrek
-Jedyneczka
 Jedynex
 Jees
 Jeet
@@ -989,7 +968,6 @@ Jeko
 Jekoda
 Jelam
 Jelchem
-Jelenianka
 Jelfa
 Jelfrut
 Jelimex
@@ -1074,20 +1052,13 @@ Jewelery
 Jewellery
 Jewelleryp
 Jewerery
-Jezioranka
 Jezpol
 Jeztrans
-Jezu
-Jezus
 Jeżgaz
 Jeżoch
 Jeżol
-Jeżowianka
-Jeżykowo
 Jędmax
 Jędrex
-Jędrusiowa
-Jędrzysiak
 Językomania
 Jgmapol
 Jgmb
@@ -1114,7 +1085,6 @@ Jmik
 Jmpag
 Jnbud
 Jnfo
-Joachimiakowie
 Joaga
 Joal
 Joamed
@@ -1149,7 +1119,6 @@ Jodart
 Jodex
 Jodipol
 Jodłex
-Jodłowniczanka
 Jodmar
 Jodmet
 Jodorex
@@ -1324,7 +1293,6 @@ Jorbud
 Jord
 Jordache
 Jordahl
-Jordanówka
 Jordek
 Jordpol
 Joreg
@@ -1454,7 +1422,6 @@ Józenpasz
 Józpol
 Józter
 Józtrans
-Jóźwiakowie
 Jpas
 Jpdp
 Jphp
@@ -1475,7 +1442,6 @@ Jubikom
 Jubilam
 Jubilech
 Jubileks
-Jubilersko
 Jubilex
 Jubimar
 Jubira
@@ -1492,9 +1458,6 @@ Jucer
 Judar
 Judita
 Judycz
-Judym
-Judyta
-Judytka
 Juel
 Juella
 Juelle
@@ -1517,7 +1480,6 @@ Jugobud
 Jugon
 Jugosta
 Jugpol
-Juhaszówka
 Juhen
 Juhnkers
 Jukal
@@ -1554,7 +1516,6 @@ Julimpex
 Julinex
 Julinka
 Julit
-Julita
 Julitex
 Julitta
 Julitte
@@ -1667,7 +1628,6 @@ Juranex
 Jurapol
 Jurapress
 Jurasoft
-Jurasówka
 Jurastan
 Juratech
 Juratex
@@ -1687,7 +1647,6 @@ Jurel
 Jurella
 Jurem
 Jurewex
-Jurewiczówka
 Jurex
 Jurexim
 Jurexpo
@@ -1787,13 +1746,9 @@ Justna
 Justo
 Justola
 Juston
-Justowiak
 Justy
 Justynex
 Justyr
-Justysia
-Justyś
-Juszczynianka
 Jutan
 Jutapol
 Jutar
@@ -1812,7 +1767,6 @@ Juvenex
 Juvenia
 Juventa
 Juventur
-Juventus
 Juvet
 Juvex
 Juvi

@@ -9,8 +9,6 @@ Kaas
 Kabad
 Kabajt
 Kabanex
-Kabanosek
-Kabanosik
 Kabanospol
 Kabapol
 Kabart
@@ -56,14 +54,11 @@ Kacelaria
 Kacha
 Kachem
 Kachi
-Kachlinówka
 Kacmar
 Kacoerek
-Kacperkowy
 Kacpol
 Kacpr
 Kacpro
-Kaczarnica
 Kaczbud
 Kaczmi
 Kacztex
@@ -111,7 +106,6 @@ Kadu
 Kadus
 Kaduś
 Kadwell
-Kadyceusz
 Kadym
 Kadzmierz
 Kael
@@ -125,7 +119,6 @@ Kafarex
 Kafe
 Kafed
 Kafeina
-Kafelkarstwo
 Kaffe
 Kaffet
 Kafi
@@ -160,14 +153,12 @@ Kaher
 Kahlberg
 Kahma
 Kahol
-Kahunowie
 Kaia
 Kaibo
 Kaidar
 Kaie
 Kaig
 Kainonia
-Kair
 Kaisai
 Kaisi
 Kaix
@@ -196,7 +187,6 @@ Kajpol
 Kajt
 Kajtex
 Kajtmo
-Kajtuś
 Kajw
 Kaka
 Kakaba
@@ -248,8 +238,6 @@ Kalibra
 Kalibud
 Kalident
 Kalifarm
-Kalifornia
-Kaligrafik
 Kalimax
 Kalimera
 Kalimet
@@ -379,7 +367,6 @@ Kamd
 Kamdrut
 Kame
 Kameb
-Kameccy
 Kamed
 Kameja
 Kamekeon
@@ -406,7 +393,6 @@ Kamid
 Kamido
 Kamieniarsstwo
 Kamienicarooms
-Kamieniczanka
 Kamienierz
 Kamiga
 Kamigor
@@ -593,7 +579,6 @@ Kaoma
 Kaori
 Kapabit
 Kapado
-Kapadocja
 Kapadokja
 Kapadokya
 Kapahl
@@ -684,7 +669,6 @@ Karedent
 Karef
 Kareja
 Karekol
-Karelia
 Karema
 Karembud
 Karemi
@@ -732,7 +716,6 @@ Karja
 Karjan
 Karkaj
 Karkon
-Karkonosze
 Karkoz
 Karlen
 Karletta
@@ -762,7 +745,6 @@ Karnsund
 Karodent
 Karograf
 Karoka
-Karolcia
 Karolex
 Karolimpex
 Karoline
@@ -808,7 +790,6 @@ Kartbud
 Karteksim
 Kartelus
 Kartex
-Kartezjusz
 Kartgeo
 Kartie
 Kartim
@@ -844,7 +825,6 @@ Karusia
 Karux
 Karwick
 Karwit
-Karwosińśki
 Karya
 Karyst
 Karza
@@ -865,13 +845,9 @@ Kasfisk
 Kasfix
 Kashprim
 Kasiat
-Kasieńka
 Kasis
-Kasiunia
 Kasix
 Kasjanka
-Kasjopeja
-Kasjusz
 Kaskar
 Kaskat
 Kaskomp
@@ -889,16 +865,13 @@ Kasos
 Kaspec
 Kasped
 Kaspeed
-Kaspersky
 Kaspertino
 Kaspio
 Kaspo
 Kaspol
 Kasprom
-Kasprowy
 Kaspworld
 Kasrol
-Kassandra
 Kassimpex
 Kassja
 Kastad
@@ -928,13 +901,10 @@ Kaszpel
 Kaszpol
 Kaszrnia
 Kaszubia
-Kaszubianka
-Kaszubsko
 Katadex
 Katal
 Katama
 Katani
-Katania
 Katarina
 Katarinex
 Kataterm
@@ -1057,7 +1027,6 @@ Kazel
 Kazet
 Kazex
 Kazgod
-Kazimierza
 Kazis
 Kazmar
 Kazmet
@@ -1076,10 +1045,8 @@ Kątstal
 Kązbud
 Kbmauto
 Kbot
-Kčhne
 Kcmb
 Kcmp
-Kčster
 Kdbud
 Kdwt
 Keam
@@ -1372,7 +1339,6 @@ Kielmar
 Kielmet
 Kielpol
 Kielsport
-Kiełbicze
 Kiepurex
 Kieratex
 Kierec
@@ -1394,7 +1360,6 @@ Kikuś
 Kilargo
 Kilaz
 Kilbud
-Kilimandżaro
 Kilimebud
 Kilimex
 Kilinbud
@@ -1423,12 +1388,10 @@ Kinarps
 Kinbord
 Kinbud
 Kindermagnet
-Kineccy
 Kined
 Kinekspert
 Kinepolis
 Kinesis
-Kineskopek
 Kinetics
 Kinex
 Kinezis
@@ -1481,7 +1444,6 @@ Kismed
 Kismik
 Kispol
 Kista
-Kitalowie
 Kitkin
 Kitl
 Kitnet
@@ -1521,7 +1483,6 @@ Klamber
 Klamex
 Klamrex
 Klanad
-Klaninówka
 Klanpex
 Klantium
 Klapps
@@ -1541,10 +1502,6 @@ Klaubud
 Klaud
 Klaudam
 Klaudex
-Klaudiusz
-Klaudyna
-Klaudynek
-Klaudynka
 Klaukrys
 Klaumat
 Klaveness
@@ -1573,16 +1530,12 @@ Klemark
 Klematex
 Klembud
 Klemenaros
-Klementyna
 Klemex
 Klemir
 Klemszkol
 Klenir
 Kleo
-Kleopatra
-Klepaccy
 Klesik
-Kleszczany
 Kleszczbud
 Klex
 Klezas
@@ -1675,7 +1628,6 @@ Klingenburg
 Klinikabhp
 Klinit
 Klinkiermur
-Klinkierowanie
 Klinkmar
 Klinpol
 Klinstal
@@ -1700,7 +1652,6 @@ Kloffer
 Klokocin
 Klonex
 Klonor
-Klonowica
 Klonpak
 Klonpol
 Klösters
@@ -1723,10 +1674,8 @@ Klumet
 Klupex
 Klurembud
 Kluthe
-Kłaczkiweicz
 Kłatro
 Kłes
-Kłopoccy
 Kłosbud
 Kłospol
 Kłysbud
@@ -1735,8 +1684,6 @@ Kmar
 Kmbf
 Kmbk
 Kmes
-Kmieă
-Kmity
 Kmmh
 Kmmp
 Kmsm
@@ -1758,7 +1705,6 @@ Knockoutdesign
 Knoechelmann
 Knopex
 Knopol
-Knosały
 Koagra
 Koana
 Koara
@@ -1767,7 +1713,6 @@ Koart
 Kobadent
 Kobafi
 Kobako
-Kobakówka
 Kobamet
 Kobar
 Kobart
@@ -1779,7 +1724,6 @@ Kobero
 Koberson
 Kobet
 Kobex
-Kobielanka
 Kobieltrans
 Kobieteria
 Kobiko
@@ -1799,8 +1743,6 @@ Koby
 Kocbud
 Kochgaz
 Kochspol
-Kociewiak
-Kociewie
 Kocynder
 Kodad
 Kodal
@@ -1878,12 +1820,10 @@ Kokra
 Koksomet
 Koksoprojekt
 Koksorem
-Koksowianka
 Kolam
 Kolara
 Kolart
 Kolaseum
-Kolastyna
 Kolawi
 Kolbasz
 Kolbet
@@ -1991,15 +1931,12 @@ Koltor
 Koltrans
 Koltrem
 Koltur
-Kolumbijka
 Kolumbus
 Kolwin
 Kolwit
 Kolzam
 Kolzłom
-Kołaczówka
 Kołbud
-Kołczewianka
 Kołdico
 Kołomax
 Kołopak
@@ -2110,7 +2047,6 @@ Komitech
 Komix
 Komland
 Komlek
-Komleksowe
 Komlex
 Komlo
 Kommar
@@ -2128,7 +2064,6 @@ Komodus
 Komonstal
 Komopal
 Komores
-Komorzanka
 Komotex
 Komox
 Komozbyt
@@ -2160,11 +2095,9 @@ Kompix
 Komplac
 Komplan
 Komplast
-Komplekowe
 Kompleksbud
 Kompleksor
 Kompleksrem
-Kompleskowe
 Kompleus
 Komplexbud
 Komplus
@@ -2230,7 +2163,6 @@ Komtronik
 Komunal
 Komunalnik
 Komunalspec
-Komuterowe
 Komvert
 Komwad
 Komwent
@@ -2259,8 +2191,6 @@ Koncentel
 Konceptis
 Koncertour
 Koncertourist
-Koncesjoner
-Koncesjonowny
 Koncex
 Konchem
 Koncpasz
@@ -2270,7 +2200,6 @@ Kondex
 Kondi
 Kondip
 Konditech
-Kondratowicza
 Kondrax
 Kondrew
 Kondrex
@@ -2292,7 +2221,6 @@ Konex
 Konexim
 Konfa
 Konfarm
-Konfekcjonowanie
 Konfektia
 Konfektim
 Konferent
@@ -2334,7 +2262,6 @@ Konocar
 Konom
 Konopex
 Konotex
-Konowroccy
 Konpack
 Konpak
 Konpal
@@ -2367,8 +2294,6 @@ Konsbud
 Konschod
 Konsdrew
 Konser
-Konserwacyjno
-Konserwatywno
 Konsferrbet
 Konsfin
 Konshurt
@@ -2405,7 +2330,6 @@ Konstalex
 Konstalmet
 Konstał
 Konstans
-Konstantynka
 Konstar
 Konstat
 Konstbau
@@ -2484,10 +2408,7 @@ Konzbut
 Konztur
 Kończak
 Kończal
-Kończanka
-Kończynka
 Końka
-Końskowolanka
 Końtur
 Kool
 Kooltech
@@ -2503,9 +2424,7 @@ Koos
 Kopack
 Kopag
 Kopako
-Kopanieccy
 Koparder
-Kopareczka
 Kopareks
 Koparex
 Kopart
@@ -2516,7 +2435,6 @@ Koperdex
 Koperfam
 Kopernicus
 Kopertim
-Koperwasowie
 Kopex
 Kopexim
 Kopgard
@@ -2581,7 +2499,6 @@ Korchem
 Korchemia
 Kőrcher
 Korchm
-Korczaka
 Korczbud
 Kordań
 Kordbud
@@ -2600,7 +2517,6 @@ Korella
 Koremus
 Korena
 Korente
-Korespondencyjne
 Korex
 Korez
 Korfa
@@ -2639,9 +2555,6 @@ Kormed
 Kormet
 Kormex
 Kormosoft
-Korneccy
-Kornelia
-Kornelka
 Kornelo
 Korniks
 Kornix
@@ -2684,13 +2597,10 @@ Korwita
 Koryb
 Korylus
 Koryspol
-Koryznówka
-Kosalówka
 Kosbud
 Koscan
 Kosd
 Kosewia
-Kosieradzka
 Koskar
 Kosłom
 Kosmag
@@ -2718,7 +2628,6 @@ Kosmovital
 Kosmy
 Kosnostal
 Kosonic
-Kosowianka
 Kospak
 Kospal
 Kospan
@@ -2743,7 +2652,6 @@ Kostobruk
 Kostom
 Kostpol
 Kostrobet
-Kostrzyńsko
 Koszbud
 Koszbudex
 Koszpol
@@ -2771,7 +2679,6 @@ Kotinstal
 Kotis
 Kotitrans
 Kotlex
-Kotliccy
 Kotlinex
 Kotlostal
 Kotłobud
@@ -2788,8 +2695,6 @@ Kotłowent
 Kotmet
 Kotmex
 Kotniz
-Kotowiak
-Kotowiczanka
 Kotpol
 Kotrak
 Kotrans
@@ -2799,8 +2704,6 @@ Kotstal
 Kotten
 Kottex
 Kottgen
-Kottowie
-Kotwiccy
 Kotwiczoplot
 Koudijs
 Kounlimited
@@ -2915,7 +2818,6 @@ Krajper
 Krajpol
 Krajtrans
 Krakar
-Krakatau
 Krakbau
 Krakbell
 Krakbet
@@ -2947,7 +2849,6 @@ Krakop
 Krakopak
 Krakoran
 Krakowex
-Krakowsko
 Krakpol
 Krakrol
 Krakservice
@@ -3001,10 +2902,7 @@ Krapol
 Krarem
 Krasbud
 Krasch
-Krasiccy
-Krasieńka
 Kraskór
-Krasnodwór
 Krasnopel
 Krasotherm
 Krasowia
@@ -3045,7 +2943,6 @@ Krazbud
 Krazet
 Krazyx
 Krągbet
-Krčger
 Krea
 Kreactive
 Kreatik
@@ -3092,7 +2989,6 @@ Kresbud
 Kresim
 Kresix
 Kresmot
-Kresówka
 Krespo
 Krespol
 Krest
@@ -3106,7 +3002,6 @@ Krexim
 Kreyzy
 Krezbud
 Krężbud
-Krężniczanka
 Kribut
 Krida
 Kridex
@@ -3263,8 +3158,6 @@ Krospol
 Krostahl
 Kroswood
 Krośbud
-Krośniczanka
-Krośniewianka
 Krotgaz
 Kroto
 Krotoprojekt
@@ -3311,7 +3204,6 @@ Kruszpol
 Krusztar
 Kruszynex
 Kruszywosort
-Krutynianka
 Krybar
 Krybex
 Krybo
@@ -3341,7 +3233,6 @@ Krymark
 Krymat
 Krymet
 Krymopol
-Krynicko
 Krynpol
 Krysag
 Krysbas
@@ -3406,7 +3297,6 @@ Kryxs
 Kryzen
 Kryzjan
 Kryzpol
-Kryzysek
 Krzakoland
 Krzeczrol
 Krzemar
@@ -3415,22 +3305,18 @@ Krzemex
 Krzemjan
 Krzy
 Krzychbud
-Krzycho
 Krzychpol
 Krzymar
 Krzysand
-Krzysia
 Krzysław
 Krzystof
 Krzyszpol
 Krzysztar
-Krzysztofa
 Krzysztofex
 Krzysztonix
 Krzysztow
 Krzyśkówjuliusz
 Krzyśtrans
-Krzyżtopór
 Ksando
 Ksania
 Ksante
@@ -3460,7 +3346,6 @@ Kserografix
 Kserok
 Kserokomp
 Kserokop
-Kserokopiarstwo
 Kserolux
 Kseromark
 Kseromax
@@ -3505,7 +3390,6 @@ Ktrans
 Ktsp
 Kuad
 Kuanto
-Kubaccy
 Kuball
 Kubama
 Kubarex
@@ -3516,7 +3400,6 @@ Kubax
 Kubex
 Kubexs
 Kubhit
-Kubiakowie
 Kubiktables
 Kubimex
 Kubitex
@@ -3531,7 +3414,6 @@ Kubrex
 Kubsmebels
 Kubtrans
 Kubud
-Kubusia
 Kuchniemp
 Kuclandia
 Kudłatex
@@ -3545,16 +3427,12 @@ Kufloteka
 Kugar
 Kuger
 Kugura
-Kujawia
-Kujawianka
-Kujawsko
 Kukardka
 Kukartka
 Kukdruk
 Kukumis
 Kulartpress
 Kulbet
-Kuliccy
 Kulinar
 Kulmar
 Kulmax
@@ -3581,10 +3459,8 @@ Kuncar
 Kundabuilding
 Kunex
 Kunguanu
-Kuniczanka
 Künig
 Kunix
-Kunowianka
 Kuntersztyn
 Kupers
 Kupimeks
@@ -3601,8 +3477,6 @@ Kurierserwis
 Kurodent
 Kurotec
 Kurpex
-Kurpianeczka
-Kurpianka
 Kurpol
 Kurrami
 Kurser

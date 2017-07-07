@@ -102,7 +102,6 @@ Idmar
 Idomas
 Idox
 Idro
-Idywidualna
 Idzimar
 Idżczak
 Iech
@@ -222,7 +221,6 @@ Ikal
 Ikalco
 Ikam
 Ikapol
-Ikar
 Ikaria
 Ikarmot
 Ikarnet
@@ -281,7 +279,6 @@ Ilkas
 Illbruck
 Illma
 Illochroma
-Illuminazione
 Illumino
 Illusio
 Illustravi
@@ -381,7 +378,6 @@ Imfotech
 Imgron
 Imgw
 Imic
-Imielówka
 Imige
 Imigw
 Imil
@@ -420,7 +416,6 @@ Immopol
 Immoservis
 Immot
 Immpuls
-Immunogen
 Imobilia
 Imoda
 Imog
@@ -504,7 +499,6 @@ Impregna
 Imprema
 Impresion
 Impresor
-Impressio
 Impressionart
 Impressja
 Impresso
@@ -594,7 +588,6 @@ Incola
 Incold
 Incoll
 Incom
-Incomers
 Incomex
 Incomtax
 Incomtel
@@ -638,18 +631,9 @@ Indrux
 Inducto
 Induster
 Industri
-Industrieböden
 Industriel
-Industrietechnik
-Industrievertretung
 Industrin
-Indyidualna
 Indykpol
-Indywidualana
-Indywidulana
-Indywidulna
-Indywidyalna
-Indywudualna
 Ineeco
 Ineko
 Inekom
@@ -665,7 +649,6 @@ Inerco
 Inergaret
 Inergy
 Inernational
-Inernetowy
 Inesal
 Inesart
 Iness
@@ -1101,7 +1084,6 @@ Insago
 Insagol
 Insako
 Insal
-Insalatorstwo
 Insan
 Insanco
 Insand
@@ -1322,7 +1304,6 @@ Instmar
 Instmark
 Instmet
 Instmont
-Instolatorstwo
 Instom
 Inston
 Instplant
@@ -2047,7 +2028,6 @@ Introlamex
 Introldruk
 Introlen
 Introlex
-Introligatorstwo
 Introm
 Introma
 Intromal
@@ -2119,7 +2099,6 @@ Investcorp
 Investdesign
 Investdom
 Investel
-Investeringsfonden
 Investeuro
 Investexport
 Investgas
@@ -2339,7 +2318,6 @@ Iremax
 Iremo
 Irenasun
 Irenes
-Irenka
 Irenpol
 Ireq
 Ires
@@ -2394,7 +2372,6 @@ Irmes
 Irmet
 Irmex
 Irmi
-Irmina
 Irmincyk
 Irmirex
 Irmisz
@@ -2714,7 +2691,6 @@ Iwadex
 Iwag
 Iwako
 Iwal
-Iwaniccy
 Iwante
 Iwanti
 Iwapol
@@ -2809,10 +2785,7 @@ Ixia
 Ixora
 Ixpert
 Izaar
-Izabel
-Izabelka
 Izabell
-Izabella
 Izabellin
 Izabeta
 Izabud
@@ -2897,7 +2870,6 @@ Izokwiat
 Izol
 Izolan
 Izoland
-Izolatorstwo
 Izolbet
 Izolbud
 Izolbut
@@ -2969,7 +2941,6 @@ Iztar
 Izukof
 Izwiert
 Izybar
-Izyda
 Izyra
 Izys
 Izytrans

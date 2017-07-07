@@ -145,7 +145,6 @@ Halgut
 Halhand
 Halian
 Halibar
-Halibucik
 Halibud
 Halidor
 Halifarm
@@ -295,7 +294,6 @@ Handvis
 Handwit
 Handwod
 Handybooks
-Haneczka
 Haneks
 Hanesco
 Hanesta
@@ -408,7 +406,6 @@ Haraboss
 Haraldi
 Harapan
 Harbud
-Harcmistrzówka
 Harco
 Harctur
 Hardach
@@ -444,7 +441,6 @@ Harmark
 Harmet
 Harmex
 Harmond
-Harmoniusz
 Harmonny
 Harnam
 Harnapol
@@ -622,7 +618,6 @@ Hcari
 Hdmb
 Hdse
 Healey
-Healthcare
 Hean
 Heanseatic
 Heapmail
@@ -682,7 +677,6 @@ Hedwar
 Heet
 Heex
 Hefaist
-Hefajstos
 Hefal
 Hefar
 Hefaystos
@@ -703,14 +697,11 @@ Heidefrucht
 Heidrick
 Heildelberg
 Heilit
-Heintzmann
 Heiro
-Heitzmann
 Heiz
 Heja
 Hejan
 Hejk
-Hejszowina
 Heka
 Hekam
 Hekan
@@ -904,8 +895,6 @@ Henex
 Henfar
 Henglein
 Henhel
-Henia
-Henio
 Henipa
 Heniplast
 Henitex
@@ -1045,7 +1034,6 @@ Herbek
 Herbemin
 Herbena
 Herberga
-Herbetowicz
 Herbewo
 Herbex
 Herbi
@@ -1219,7 +1207,6 @@ Hight
 Higieco
 Higieja
 Higienika
-Higienka
 Higienos
 Higma
 Higmed
@@ -1451,7 +1438,6 @@ Holzwelt
 Holzwerk
 Hołbau
 Hołk
-Hołowczyce
 Hołowocz
 Homag
 Homako
@@ -1648,7 +1634,6 @@ Hulpak
 Huls
 Humag
 Humana
-Humanic
 Humansoft
 Humanum
 Humanus
@@ -1661,7 +1646,6 @@ Humir
 Humulex
 Hungapol
 Hungar
-Hungaria
 Hungaropol
 Hungarotex
 Hünnbeck
@@ -1736,7 +1720,6 @@ Hutmed
 Hutmen
 Hutmet
 Hutmex
-Hutniczo
 Hutownia
 Hutr
 Hutrem
@@ -1755,7 +1738,6 @@ Hyab
 Hyatt
 Hybres
 Hybro
-Hybrudowe
 Hydac
 Hydbor
 Hydeko
@@ -1777,7 +1759,6 @@ Hydrapres
 Hydrapress
 Hydraskład
 Hydrateam
-Hydrauliczno
 Hydraulix
 Hydraus
 Hydreco
@@ -1983,7 +1964,6 @@ Hydrowoj
 Hydroworld
 Hydrozemar
 Hydrro
-Hydruliczne
 Hygea
 Hygeco
 Hygeia

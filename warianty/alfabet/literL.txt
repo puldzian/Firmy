@@ -212,7 +212,7 @@ Lambo
 Lambros
 Lambud
 Lamco
-L'ame
+Lame
 Lameb
 Lamex
 Lamgi
@@ -277,7 +277,7 @@ Lamskór
 Lamstel
 Lamtel
 Lamtex
-Lamur'r
+Lamurr
 Lamx
 Lanarp
 Lanber
@@ -319,7 +319,6 @@ Langaz
 Langdach
 Langfeldt
 Langgra
-Langiewicza
 Langmed
 Langor
 Langord
@@ -435,13 +434,10 @@ Laskomet
 Laskomex
 Laskopal
 Laskopol
-Laskowianka
 Lasland
 Lasma
 Lasmar
 Lasotaks
-Lasowiak
-Lasowianka
 Laspol
 Lasport
 Lasrom
@@ -483,8 +479,6 @@ Laumann
 Laumed
 Lauratex
 Laurax
-Laurencjusz
-Laurentino
 Laurentius
 Laurin
 Lauromax
@@ -924,9 +918,7 @@ Lesgaz
 Lesio
 Lesjan
 Leskom
-Leskowiec
 Lesky
-Lesław
 Lesmag
 Lesmak
 Lesmar
@@ -1012,7 +1004,6 @@ Lewidal
 Lewil
 Lewimar
 Lewinex
-Lewińsky
 Lewion
 Lewiplast
 Lewir
@@ -1020,7 +1011,6 @@ Lewital
 Lewix
 Lewjar
 Lewkar
-Lewkowo
 Lewmar
 Lewmet
 Lewmil
@@ -1107,7 +1097,6 @@ Liberpol
 Liberto
 Libertourist
 Libertus
-Libertynka
 Liberum
 Libet
 Libex
@@ -1128,14 +1117,11 @@ Libri
 Librodent
 Librus
 Libuszhof
-Licencjowany
-Licensjonowane
 Lichacze
 Lichton
 Lichtwer
 Licomp
 Licor
-Liczyrzepa
 Lidal
 Lidan
 Lidbro
@@ -1226,13 +1212,8 @@ Lileda
 Lilex
 Lilhaljan
 Lili
-Lilianka
-Lilianna
 Lilibeo
 Lililalu
-Liljan
-Liljana
-Liljówka
 Lillbud
 Lilleheden
 Lilliana
@@ -1413,7 +1394,6 @@ Lissta
 Listar
 Listpol
 Listwal
-Liswarcianka
 Litar
 Litbud
 Litegraf
@@ -1472,7 +1452,6 @@ Ljas
 Ljósheim
 Lkbp
 Llentabhallen
-Lniakowie
 Lnwit
 Loadmaster
 Loalex
@@ -1597,7 +1576,6 @@ Lokaltel
 Lokanda
 Lokanta
 Lokar
-Lokatorsko
 Lokawa
 Lokąk
 Lokbud
@@ -1631,7 +1609,6 @@ Lomari
 Lomax
 Lomb
 Lombank
-Lombardia
 Lombarding
 Lombart
 Lombi
@@ -1765,7 +1742,6 @@ Luana
 Luandro
 Lubanta
 Lubar
-Lubartowiak
 Lubatur
 Lubavia
 Lubax
@@ -1782,7 +1758,6 @@ Lubekol
 Lubelcar
 Lubelen
 Lubella
-Lubelsko
 Lubema
 Lubet
 Lubex
@@ -1833,9 +1808,6 @@ Lubtex
 Lubtour
 Lubtrans
 Lubu
-Lubusko
-Lubusz
-Lubuszanin
 Lubwiert
 Lubzel
 Lucad
@@ -1851,7 +1823,6 @@ Lucciano
 Lucella
 Lucent
 Lucidus
-Lucienianka
 Luckpol
 Lucmar
 Lucom
@@ -1859,9 +1830,7 @@ Lucpaw
 Lucpol
 Lucrum
 Lucta
-Lucullus
 Lucuś
-Lucynka
 Lucyś
 Luczana
 Luczessa
@@ -1871,14 +1840,12 @@ Ludbak
 Ludgard
 Ludkor
 Ludmar
-Ludomianka
 Ludpol
 Ludr
 Ludvet
 Ludwi
 Ludwimar
 Ludwinex
-Ludwinianka
 Luftar
 Lugal
 Lugaz
@@ -2019,7 +1986,6 @@ Lustrans
 Lustrex
 Lustropol
 Lusy
-Luśka
 Lutax
 Lutech
 Lutex
@@ -2105,8 +2071,6 @@ Luxwat
 Luxweld
 Luzam
 Luzban
-Lużniarek
-Lwigród
 Lybra
 Lydya
 Lykeion

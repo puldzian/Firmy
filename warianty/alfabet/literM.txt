@@ -126,7 +126,6 @@ Mactom
 Mactop
 Mactus
 Maćbud
-Maćkacy
 Maćkopol
 Maćkowa
 Madag
@@ -159,7 +158,6 @@ Madeb
 Madecar
 Madeco
 Madejpak
-Madelaine
 Madem
 Madena
 Madent
@@ -297,7 +295,6 @@ Magdor
 Magdrafa
 Magdrew
 Magdulec
-Magdusia
 Magedo
 Magem
 Magemar
@@ -315,7 +312,6 @@ Maggy
 Magicbox
 Magiccar
 Magicpol
-Magielek
 Magillo
 Magimex
 Magips
@@ -347,7 +343,6 @@ Magnetics
 Magnetix
 Magnetovit
 Magnetvita
-Magnetyzatory
 Magnezia
 Magni
 Magnifica
@@ -473,12 +468,8 @@ Majbud
 Majbut
 Majdanex
 Majdus
-Majerczakówka
 Majero
-Majerowie
-Majerzanka
 Majew
-Majewskich
 Majex
 Majfart
 Majhen
@@ -495,7 +486,6 @@ Majlen
 Majmar
 Majmasz
 Majmex
-Majmławka
 Majms
 Majnati
 Majol
@@ -581,7 +571,6 @@ Makop
 Makopol
 Makord
 Makore
-Makoszowianka
 Makpol
 Makprint
 Makramax
@@ -637,7 +626,6 @@ Makss
 Makstal
 Makster
 Makstin
-Maksymiliana
 Makt
 Maktaba
 Maktak
@@ -671,7 +659,6 @@ Malbet
 Malbit
 Malbo
 Malbodruk
-Malborżanka
 Malbox
 Malbud
 Malbudter
@@ -694,7 +681,6 @@ Malegro
 Malem
 Malenal
 Malerteam
-Malerwerkstatte
 Maletti
 Maleus
 Malev
@@ -710,7 +696,6 @@ Malgat
 Malgo
 Malgum
 Malibud
-Maliccy
 Malifex
 Malimas
 Malimax
@@ -773,7 +758,6 @@ Malss
 Malstrong
 Maltabud
 Maltacer
-Maltanka
 Maltap
 Maltech
 Maltel
@@ -804,26 +788,20 @@ Malwik
 Malwil
 Malwin
 Malwinex
-Malwinka
 Malwis
 Malwit
 Malwita
 Malwol
-Małapanew
-Małasówka
 Małczer
 Małdar
 Małdex
-Małeccy
 Małfor
 Małga
 Małgo
 Małgograf
 Małgol
 Małgoplast
-Małgosia
 Małgoś
-Małgośka
 Małkorol
 Małmagpol
 Małmar
@@ -883,7 +861,6 @@ Mandam
 Mandar
 Mandariva
 Mande
-Mandeccy
 Mandeo
 Mandersloot
 Mandi
@@ -894,7 +871,6 @@ Mandukhaj
 Maneks
 Manex
 Manfredbud
-Manggha
 Mangia
 Mangoo
 Mangor
@@ -950,7 +926,6 @@ Manusul
 Manximum
 Manzi
 Mańcom
-Mańczak
 Mańdziuk
 Mańk
 Maol
@@ -966,7 +941,6 @@ Mapcar
 Mape
 Mapei
 Mapel
-Mapencki
 Maper
 Mapex
 Mapfor
@@ -1072,7 +1046,6 @@ Marcaz
 Marcbo
 Marccain
 Marcco
-Marcelinka
 Marcell
 Marcello
 Marcer
@@ -1086,9 +1059,7 @@ Marciech
 Marcinbus
 Marcineks
 Marcinex
-Marciniakowie
 Marcja
-Marcjanna
 Marcjano
 Marck
 Marckot
@@ -1116,7 +1087,6 @@ Marcplast
 Marcpol
 Marcrystal
 Marcuś
-Marcysia
 Marczez
 Mard
 Mardach
@@ -1196,7 +1166,6 @@ Margab
 Margabud
 Margalo
 Margareta
-Margaretka
 Margarett
 Margaretta
 Margaritka
@@ -1351,7 +1320,6 @@ Mariter
 Maritex
 Maritimus
 Marito
-Mariuszek
 Mariw
 Mariwa
 Mariwex
@@ -1404,8 +1372,6 @@ Markendo
 Markerland
 Markerman
 Marketchem
-Marketingberatung
-Marketingowo
 Marketiq
 Marketix
 Marketour
@@ -1501,7 +1467,6 @@ Marland
 Marlech
 Marlem
 Marlen
-Marlenka
 Marleo
 Marlesz
 Marlet
@@ -1809,7 +1774,6 @@ Masab
 Masam
 Masandex
 Masandra
-Masarnictwo
 Masarpol
 Masart
 Masat
@@ -2093,7 +2057,6 @@ Matteo
 Matternhorn
 Matuspo
 Matuz
-Matysiaki
 Maűer
 Maupa
 Maurex
@@ -2359,12 +2322,6 @@ Mazex
 Mazico
 Mazim
 Mazos
-Mazovia
-Mazovian
-Mazowia
-Mazowianka
-Mazowiecko
-Mazowszak
 Mazpasz
 Mazpol
 Maztech
@@ -2374,13 +2331,10 @@ Mazurex
 Mazuria
 Mazurlas
 Mazurol
-Mazurowie
 Mazurtrans
 Mazzo
 Mażex
 Mądeltrans
-Mąkowary
-Mąrzycki
 Mbank
 Mbdesign
 Mbest
@@ -3031,7 +2985,6 @@ Medvit
 Medvita
 Medwar
 Medy
-Medyceusz
 Medykan
 Medyken
 Medykon
@@ -3628,7 +3581,6 @@ Metaloplstyka
 Metalopolastyka
 Metalopolis
 Metaloskraw
-Metalowo
 Metalozbyt
 Metalpalst
 Metalpark
@@ -3838,8 +3790,6 @@ Mexem
 Mexeo
 Mexgos
 Mexi
-Mexicana
-Mexicano
 Mexim
 Mexlab
 Mexpol
@@ -3856,9 +3806,6 @@ Mezap
 Mezar
 Mezas
 Mezcompu
-Mezopotamia
-Mędzyszkolny
-Mętlowie
 Mfind
 Mgas
 Mgerber
@@ -3912,7 +3859,6 @@ Michalineum
 Michałbud
 Michałex
 Michałowa
-Michałowiczanka
 Michbud
 Michcio
 Michelbud
@@ -3924,14 +3870,12 @@ Michkark
 Michlor
 Michmar
 Michnah
-Michowianka
 Michpol
 Michrob
 Michsan
 Michstef
 Michtax
 Michtel
-Mickiewicza
 Micmar
 Mico
 Micodent
@@ -4021,41 +3965,24 @@ Midyko
 Miece
 Miecio
 Mieczstal
-Mieczysława
 Miedoniniecki
 Miedwie
 Miedzio
 Miedzioplast
 Miedziotek
-Miedzynarodowa
-Miedzynarodowy
 Miedźsanit
 Miejskietowarzystwo
-Miejsko
 Miekart
 Mielcbud
 Mielgast
 Miemar
 Mierbud
-Miernicy
-Mierzyńka
 Miesz
 Miet
 Mietbud
 Mietex
 Miettex
 Miewoj
-Międznarodowa
-Międznarodowe
-Międzyfederacyjny
-Międzyodrze
-Międzyspółdzielniany
-Międzyuczelniana
-Międzywojewódzka
-Międzywojewódzki
-Międzywojewódzkie
-Międzywydziałowy
-Międzyzakonny
 Mięsdam
 Mięsław
 Mięsort
@@ -4162,7 +4089,6 @@ Mikka
 Mikkom
 Mikland
 Miklobit
-Mikłaszówka
 Mikma
 Mikmar
 Mikmi
@@ -4173,7 +4099,6 @@ Mikoflor
 Mikola
 Mikolaj
 Mikoli
-Mikołajczyka
 Mikoma
 Mikomar
 Mikomax
@@ -4330,7 +4255,6 @@ Mileximilk
 Milfor
 Milgraf
 Milgum
-Miliardzik
 Milibra
 Miligedo
 Milikom
@@ -4500,7 +4424,6 @@ Mintpol
 Minwar
 Mińczuk
 Mińko
-Mińsk
 Mińszczak
 Miodex
 Miodzio
@@ -4587,7 +4510,6 @@ Mircar
 Mirco
 Mircom
 Mircu
-Mirczanka
 Mirdach
 Mirdan
 Mirdekor
@@ -4742,13 +4664,10 @@ Misand
 Misat
 Misco
 Misemar
-Misericordia
 Mish
 Mishel
 Mishka
 Misiaga
-Misiaki
-Misiowy
 Misk
 Miskór
 Mismar
@@ -4893,8 +4812,6 @@ Mktel
 Mkvplast
 Mkwadrat
 Mkwid
-Mląccy
-Mleczarenka
 Mleczbox
 Mleczgal
 Mleczmar
@@ -5102,8 +5019,6 @@ Modrex
 Modrol
 Modrom
 Modryna
-Modrzewiak
-Modrzewianka
 Modsoft
 Modsped
 Modulor
@@ -5139,7 +5054,6 @@ Mokart
 Mokate
 Moker
 Moko
-Mokotowianka
 Mokpol
 Mokred
 Moksbud
@@ -5177,7 +5091,6 @@ Momis
 Mommyli
 Momotown
 Monabit
-Monachium
 Monacor
 Monadit
 Monadith
@@ -5275,7 +5188,6 @@ Montar
 Montarem
 Montares
 Montax
-Montażówka
 Montbal
 Montbud
 Montebello
@@ -5438,7 +5350,6 @@ Mosir
 Mosirnet
 Mosk
 Moskar
-Moskowskije
 Mosmed
 Moso
 Mosorny
@@ -5455,7 +5366,6 @@ Mostostal
 Mostpol
 Mostva
 Mościbrod
-Mościckie
 Motech
 Motell
 Moteorex
@@ -5697,13 +5607,12 @@ Mpunkt
 Mpuq
 Mpwik
 Mrągowia
-Mr_flash
+Mrflash
 Mrija
 Mrinsight
 Mriusz
 Mrnet
 Mrobud
-Mroczanka
 Mroden
 Mroket
 Mrokno
@@ -5733,7 +5642,7 @@ Msoft
 Msotel
 Mspd
 Msport
-M'star
+Mstar
 Mstudio
 Msuc
 Mswia
@@ -5755,7 +5664,6 @@ Mtuning
 Mtvt
 Mubit
 Muchan
-Muchobór
 Mudako
 Mudar
 Mudi
@@ -6012,7 +5920,6 @@ Murbeton
 Murbex
 Murbud
 Murcja
-Murckowianka
 Mureks
 Murex
 Murexbud
@@ -6041,7 +5948,6 @@ Murvet
 Murymex
 Musan
 Muscari
-Musiałówka
 Musica
 Musicaffe
 Musicandmore
@@ -6052,7 +5958,6 @@ Musicrainbow
 Musicton
 Musicus
 Müsing
-Musiołówka
 Muskular
 Müslüm
 Mussana
@@ -6065,7 +5970,6 @@ Mustral
 Mustrans
 Muszbud
 Muszu
-Muszynianka
 Mutag
 Mutech
 Mutex
@@ -6076,7 +5980,6 @@ Muuulight
 Muwie
 Muzimer
 Muzmet
-Muzyczno
 Muzygraf
 Muzykorama
 Muzzy
@@ -6109,7 +6012,5 @@ Mystan
 Myszcom
 Myszpol
 Myszpress
-Myślibór
-Myśliweczka
 Mytrex
 Mzps
