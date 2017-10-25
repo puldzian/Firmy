@@ -50,7 +50,7 @@ bazafirm <- na.omit(bazafirm)
 # Ustaw alfabetycznie, jest pięknie
 bazafirm[,1] <- sort(bazafirm[,1])
 colnames(bazafirm) <- c("V1")
-write.csv (bazafirm, file = "złom/bazafirm_99.csv", row.names = FALSE)
+write.csv(bazafirm, file = "notes/bazafirm_99.csv", row.names = FALSE)
 # Finiszowy plik ma 124289 wpisów, to indywidualne pierwsze wyrazy nazw
 # przedsiębiorstw dłuższe niż 3 znaki
 
@@ -63,7 +63,7 @@ bazaslow <- as.data.frame(sapply(bazaslow,tolower))
 # Sprzątamy śmieci
 rm(tymczasem, plikislownikow)
 # Obniż słowniki!!!
-write.csv (bazaslow, file = "złom/bazaslow_99.csv", row.names = FALSE)
+write.csv(bazaslow, file = "złom/bazaslow_99.csv", row.names = FALSE)
 
 ### KOPIE ZAPASOWE - TUTAJ ZACZYNA SIĘ PRZYGODA
 # Bazafirm -  124289 rekordów

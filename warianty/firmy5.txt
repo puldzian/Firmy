@@ -1179,7 +1179,6 @@ Digitec
 Diktech
 Dimar
 Dimeb
-Dionizos
 Disegno
 Distra
 Ditech
@@ -1283,7 +1282,6 @@ Duncon
 Duńsko
 Dürkopp
 Dwewzim
-Dychowskie
 Dynaco
 Dynamis
 Dywanolex
@@ -4969,7 +4967,6 @@ Zibi
 Zibico
 Zibit
 Ziempil
-Zimorowicza
 Zitopol
 Złomflex
 Zmmk
